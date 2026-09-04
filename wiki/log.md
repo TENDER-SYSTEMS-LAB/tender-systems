@@ -15,3 +15,17 @@ Restructured the repository to the three-layer LLM Wiki convention already used 
 `AGENTS.md`, `schema.md`, `wiki/index.md`, `wiki/overview.md`, `wiki/current-state.md`, `wiki/log.md`, `raw/README.md`, and `raw/sources.md` were created. `raw/conversations/`, `raw/documents/`, `raw/surveys/`, and `raw/inbox/` were created empty. `wiki/concepts/`, `wiki/questions/`, and `wiki/systems/` were deliberately not created, because the schema forbids directories created before real material requires them.
 
 No project knowledge was copied from either Lab repository. No raw source is registered yet. The institutional Git identity was verified rather than changed.
+
+## [2026-09-05] ingest | Three institutional conversations registered
+
+Registered `SRC-2026-09-04-apple-design-skill-review` (hash `6bf98420ba45c7f49ee13fbe25d001c714878a8c`), `SRC-2026-09-04-tender-systems-identity-review` (hash `d6e5cf6895846d41e684d9a55b2ec5b9d9a90df9`), and `SRC-2026-09-05-social-account-strategy` (hash `8a5a64971d40d8cb49a8ac2e5d911fb52d192424`) in `raw/sources.md`. The files arrived with exporter-generated names and were renamed to the `YYYY-MM-DD-short-slug.md` form required for registration; contents were not altered, and hashes were taken after renaming. All three are Korean-language conversation exports retained in their original language. These are the repository's first registered sources.
+
+Promoted as confirmed: [[DEC-004-institutional-voice]] and [[DEC-005-public-facing-language]], both resting on statements the user made directly. [[DEC-003-public-identity]] was extended with public-surface rules the user supplied as established policy, without altering its original text.
+
+Promoted as working or hypothesis: [[tender-duality]], [[public-surfaces]], and [[tender-subject-systematic-form]], the last recorded as `hypothesis` because the assistant named the pattern and the user did not confirm it.
+
+Recorded as open: [[Q-001-shared-design-system]] and [[Q-002-internal-versus-public-language]].
+
+Attribution care: the design-skill conversation ends with no user reply at all, so its layering model, its two English principles, and its proposed shared design skill are recorded as unconfirmed proposals rather than as direction. In the social-account conversation, the assistant's initial recommendation against per-system accounts and its stricter credential separation were both overridden by the user and are recorded as not adopted. The identity conversation's slogans, division names, and speculative subject-form pairings received no user response and were not promoted.
+
+What was not copied: project-scoped material — per-system design observations, per-system public copy strings, and the product and index examples — was left in raw, with each Lab repository remaining canonical for it. The source files contain the operator's personal name; they are preserved unchanged as evidence, and the name was not carried into any Wiki page.

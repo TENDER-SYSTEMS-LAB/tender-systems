@@ -2,7 +2,10 @@
 status: working
 attribution: llm-synthesis
 updated: 2026-09-05
-sources: []
+sources:
+  - SRC-2026-09-04-apple-design-skill-review
+  - SRC-2026-09-04-tender-systems-identity-review
+  - SRC-2026-09-05-social-account-strategy
 ---
 
 # TENDER SYSTEMS Wiki Index
@@ -31,11 +34,24 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[current-state]] — Snapshot of confirmed institutional decisions, current work, and unknowns · `working` (2026-09-05)
 - [[registry]] — Canonical registry of systems operated by TENDER SYSTEMS, with identifiers, status, and repositories · `confirmed` (2026-09-05)
 
+## Concepts
+
+- [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-05)
+- [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, named by an assistant and unconfirmed · `hypothesis` (2026-09-05)
+- [[public-surfaces]] — Accounts, handle grammar, voice, and management of the institution's public platforms outside source control · `working` (2026-09-05)
+
 ## Decisions
 
 - [[DEC-001-repository-conventions]] — Repository roles, naming, and when each repository is created · `confirmed` (2026-09-04)
 - [[DEC-002-decision-placement]] — Which repository a given decision belongs in · `confirmed` (2026-09-04)
-- [[DEC-003-public-identity]] — The identity used on public-facing source control · `confirmed` (2026-09-04)
+- [[DEC-003-public-identity]] — The identity used on public-facing source control, extended with public-surface rules · `confirmed` (2026-09-05)
+- [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-05)
+- [[DEC-005-public-facing-language]] — Public copy states what a system does and never explains or labels the work · `confirmed` (2026-09-05)
+
+## Open Questions
+
+- [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-05)
+- [[Q-002-internal-versus-public-language]] — How far internal language may describe what public language withholds · `unknown` (2026-09-05)
 
 ## Activity
 
@@ -51,7 +67,8 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Page Creation Gates
 
-- Create `wiki/concepts/` and `wiki/questions/` only when registered material supports a real institution-level concept or open question. No such page exists yet.
 - Create `wiki/systems/` only when a single system accumulates institution-level knowledge that develops independently of its Lab repository. Until then, [[registry]] holds every registry-level fact.
+- Keep the choice of the next public platform in [[public-surfaces]] rather than opening a page for it.
+- Create a design page only if [[Q-001-shared-design-system]] receives a user decision. The material on record is an unanswered proposal.
 - Do not create a page for material that is canonical in a Lab repository. Link to that repository instead.
 - Do not duplicate a per-source raw catalog here. Use the [Raw Source Index](../raw/sources.md) as the single registry.
