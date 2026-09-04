@@ -1,29 +1,52 @@
 # TENDER SYSTEMS
 
-Organization-level conventions, cross-project decisions, and the project index.
+Systems for things that resist measurement.
 
-## What This Repository Is
+---
 
-This repository holds what applies across TENDER SYSTEMS as a whole rather than to any single project: repository conventions, operating rules, identity policy, and the index of active projects.
+## ACTIVE SYSTEMS
+
+[**OG-001 — OTHER GOODS**](https://github.com/TENDER-SYSTEMS-LAB/other-goods-lab)
+
+[**LN-001 — LONGING**](https://github.com/TENDER-SYSTEMS-LAB/longing-lab)
+
+---
+
+## This Repository
+
+TENDER SYSTEMS's long-term institutional memory and LLM-readable Wiki. Not a code repository. It holds what applies across TENDER SYSTEMS as a whole: institutional principles, cross-system decisions, shared conventions, and the system registry.
 
 ## What Goes Here
 
-- Conventions that every repository follows
-- Decisions that survive the end of any individual project
-- The project index
+- Institutional principles that apply across every system
+- Decisions that survive the end of any individual system
+- Repository and identity conventions
+- The system registry
 
 ## What Does Not Go Here
 
-- Any project's Wiki, research, narrative, concepts, or creative decisions. Those live in that project's Lab repository.
-- Implementation decisions. Those live in that project's implementation repository, once one exists.
+- Any system's Wiki, research, narrative, concepts, or creative decisions. Those are canonical in that system's Lab repository.
+- Implementation decisions. Those belong in a `{project-slug}-web` repository once one exists.
 
-Copying project material here would create a second source of truth. The Lab repositories are authoritative for their own projects.
+Copying system material here would create a second source of truth.
 
-## Contents
+## How This Repository Builds Memory
 
-- [projects.md](projects.md) — the project index
-- [decisions/](decisions/) — organization-wide decision records
+- [`raw/`](raw/) — source of truth.
+- [`wiki/`](wiki/) — synthesis layer.
+- [`schema.md`](schema.md) and [`AGENTS.md`](AGENTS.md) — operating layer.
 
-## Convention
+## Where to Start
 
-Documentation here follows the convention used in the Lab repositories: Markdown, YAML frontmatter with `status`, `attribution`, `updated`, and `sources`, and decision records named `DEC-NNN-short-slug.md`.
+- [System Registry](wiki/registry.md)
+- [Current State](wiki/current-state.md)
+- [Institutional Overview](wiki/overview.md)
+- [Wiki Index](wiki/index.md)
+
+## Language
+
+English is canonical. Raw sources keep their original language.
+
+## Working in This Repository
+
+Humans start at [Current State](wiki/current-state.md). Follow [`raw/README.md`](raw/README.md) when adding sources. Agents must read [`AGENTS.md`](AGENTS.md) and [`schema.md`](schema.md) first. The [Wiki Index](wiki/index.md), not this README, is the complete page map.
