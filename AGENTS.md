@@ -180,6 +180,12 @@ Do not assume that membership in the `TENDER-SYSTEMS-LAB` GitHub Organization ma
 
 The public commit history derives author and committer attribution from the commit object, not from the account that authenticated a later push. When the user explicitly authorizes personal push authentication on that basis, the agent may use it only after confirming that the public commit record contains the institutional author and committer identity. Do not describe personal authentication as institutional authentication, and do not promise that the push actor is anonymous: GitHub organization audit logs or other non-commit activity surfaces may retain the authenticating account.
 
+#### Standing authorization for this repository
+
+On 2026-09-05, the user explicitly authorized using the operator's personal GitHub authentication to push this repository, acknowledging that the push actor may remain visible in GitHub audit logs or other non-commit activity surfaces. This authorization persists for subsequent requested pushes to `TENDER-SYSTEMS-LAB/tender-systems`; do not ask for the same approval again unless the authorization is revoked or the task explicitly requires a dedicated institutional push identity.
+
+Before each push, still verify the actual authentication identity and confirm that every outgoing commit has `TENDER SYSTEMS <code@tender.systems>` as both author and committer. This permission does not authorize personal commit attribution, disclosure of personal identity in repository content, or pushes that were not otherwise requested. It does not grant standing authorization for other repositories.
+
 If a dedicated TENDER SYSTEMS push identity is required for the task, do not fall back to the operator's personal credentials.
 
 Where SSH is used, prefer a dedicated SSH host alias and key configuration that isolates TENDER SYSTEMS authentication from the operator's personal GitHub identity. Where HTTPS is used, keep TENDER SYSTEMS credentials isolated from personal GitHub credentials.
@@ -200,7 +206,7 @@ Before any `git commit`, the agent must verify:
 3. `user.email` resolves to the verified TENDER SYSTEMS email.
 4. The author and committer identities do not contain the operator's personal identity.
 
-Before any `git push`, the agent must additionally verify the actual authentication identity. Use a dedicated TENDER SYSTEMS identity unless the user has explicitly authorized personal push authentication after being informed that the actor may remain available in audit logs or other non-commit activity surfaces. In either case, verify that the commits being pushed retain the institutional author and committer identity.
+Before any `git push`, the agent must additionally verify the actual authentication identity. Use a dedicated TENDER SYSTEMS identity unless the user has explicitly authorized personal push authentication after being informed that the actor may remain available in audit logs or other non-commit activity surfaces. The standing authorization above satisfies the personal-authentication approval requirement for this repository. In either case, verify that the commits being pushed retain the institutional author and committer identity.
 
 If the applicable conditions cannot be verified, do not commit or push. Report the unresolved configuration instead.
 
