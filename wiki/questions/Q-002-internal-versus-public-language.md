@@ -3,6 +3,7 @@ status: unknown
 attribution: jointly-developed
 updated: 2026-09-05
 sources:
+  - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-tender-systems-identity-review
 ---
 
@@ -32,8 +33,15 @@ Separately, the user's pasted policy block states:
 
 The public rule is settled; the internal register is not. No document defines which vocabulary is internal-only, and Wiki pages in this repository have not yet had to make the distinction explicit.
 
+## Additional proposal: experience and archive
+
+Status: `hypothesis`; attribution: `llm-proposed`.
+
+The how-to-show excerpt proposes separating a minimally explanatory public experience from an archive containing research, conceptual statements, and technical records. This offers a possible documentation structure, but a publicly accessible interpretive archive is not the same as internal working language. It therefore leaves an unresolved tension with the broad public-copy rule in [[DEC-005-public-facing-language]] rather than establishing an exception to it. The excerpt contains no user acceptance; the proposed split depends on this source alone. See [[public-surfaces]] for the release and discovery proposal.
+
 ## Open sub-questions
 
+- Whether a public archive may contain interpretation that the system experience withholds, and how that would fit the existing public-copy rule.
 - Whether an internal definition should be recorded at all.
 - Whether internal vocabulary that never appears in public still requires a status and attribution.
 - Whether this boundary applies to the Lab repositories or only to institutional records.
@@ -45,6 +53,8 @@ The public rule is settled; the internal register is not. No document defines wh
 - [[overview]]
 
 ## Sources
+
+- [[SRC-2026-09-05-how-to-show]] — raw/conversations/2026-09-05-how-to-show.md
 
 - [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
 

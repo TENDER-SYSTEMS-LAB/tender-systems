@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-05
 sources:
+  - SRC-2026-09-05-how-to-show
   - SRC-2026-09-05-social-account-strategy
 ---
 
@@ -75,6 +76,18 @@ Which platform comes next is undecided. The assistant proposed a sequence — Th
 
 Platform facts cited by the assistant in that exchange — a Threads monthly-active-user figure and X's username length limit — came from assistant web searches conducted on 2026-09-05 and need re-verification before use, since they were not independently checked against a registered source.
 
+## Proposed release and discovery structure
+
+Status: `hypothesis`; attribution: `llm-proposed`.
+
+The how-to-show excerpt proposes extending the existing operating voice into the audience's route through the work: social discovery or a minimal institutional index leads directly to an independently accessible system website, with archive and research material in a separate layer. Instagram and YouTube would function as discovery surfaces speaking in the systems' operating registers, while GitHub would support documentation rather than serve as the audience's first entrance.
+
+The proposal favors web access without installation, reserving native apps for work whose material depends on device capabilities. It also suggests releases presented as systems becoming operational, gradual activation and expansion rather than one complete launch, and physical exhibitions that adapt a system's operations to a space. These are options for cross-system presentation, not an approved release plan, implementation choice, or exhibition commitment.
+
+This reinforces the language principle in [[DEC-005-public-facing-language]] at proposal level and extends it to distribution. A separate public archive containing interpretive writing raises an unresolved boundary with that principle; see [[Q-002-internal-versus-public-language]]. No website, archive, launch sequence, or additional platform is confirmed by this excerpt. Specific system copy, interface and exhibition examples, candidate slogans, and external submission recommendations remain in raw; the Lab repositories in [[registry]] remain canonical for system-specific choices.
+
+The excerpt has no user reply and is the sole source for this release structure. Its external platform references have not been independently verified.
+
 ## Related
 
 - [[DEC-003-public-identity]]
@@ -82,6 +95,8 @@ Platform facts cited by the assistant in that exchange — a Threads monthly-act
 - [[registry]]
 
 ## Sources
+
+- [[SRC-2026-09-05-how-to-show]] — raw/conversations/2026-09-05-how-to-show.md
 
 - [[SRC-2026-09-05-social-account-strategy]] — raw/conversations/2026-09-05-social-account-strategy.md
 

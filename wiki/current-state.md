@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-05
 sources:
+  - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
   - SRC-2026-09-04-tender-systems-identity-review
   - SRC-2026-09-05-social-account-strategy
@@ -10,7 +11,7 @@ sources:
 
 # Current State
 
-Three sources are registered, all conversation exports of 2026-09-04 and 2026-09-05. What follows draws on them and on the recorded institutional decisions, which carry no raw source of their own.
+Four sources are registered, comprising three conversation exports and one recommendation excerpt of 2026-09-04 and 2026-09-05. What follows draws on them and on the recorded institutional decisions, which carry no raw source of their own.
 
 ## Confirmed
 
@@ -36,14 +37,17 @@ Three sources are registered, all conversation exports of 2026-09-04 and 2026-09
 - Whether TENDER SYSTEMS maintains one design discipline across its systems, and what would govern what. The only material on record is an assistant proposal that received no user reply ([[Q-001-shared-design-system]]).
 - Where the boundary falls between internal working language and public language ([[Q-002-internal-versus-public-language]]).
 - Whether the structural method shared by the current systems is an intentional institutional rule. It was named by an assistant and not confirmed ([[tender-subject-systematic-form]]).
+- Whether to adopt the proposed web-first release structure: social discovery, a minimal institutional index, direct system experiences, and a separate archive. The new excerpt contains recommendations without user acceptance; neither a release sequence nor a public interpretive archive is approved ([[public-surfaces]], [[Q-002-internal-versus-public-language]]).
 - Which public platform comes next. The proposed sequence is unconfirmed ([[public-surfaces]]).
 - What a system's `archived` status will require in practice, since no system has reached it.
 
 ## Single-source dependencies
 
-Each page promoted on 2026-09-05 rests on one conversation. Two of the three sources are secondary in part: the identity conversation reports earlier deliberation that is not registered here and carries operational rules the user pasted from work done elsewhere, and the social-account conversation relies on live web searches and on an assistant's reading of another repository's Wiki. Watch these dependencies as further material arrives.
+Several important conclusions still depend on a single source, even where a page now cites multiple sources. The release structure and experience/archive split depend solely on the unconfirmed how-to-show excerpt. Two of the earlier sources are secondary in part: the identity conversation reports earlier deliberation that is not registered here and carries operational rules the user pasted from work done elsewhere, and the social-account conversation relies on live web searches and on an assistant's reading of another repository's Wiki. Watch these dependencies as further material arrives.
 
 ## Sources
+
+- [[SRC-2026-09-05-how-to-show]] — raw/conversations/2026-09-05-how-to-show.md
 
 - [[SRC-2026-09-04-apple-design-skill-review]] — raw/conversations/2026-09-04-apple-design-skill-review.md
 - [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md

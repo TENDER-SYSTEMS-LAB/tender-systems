@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-05
 sources:
+  - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
   - SRC-2026-09-04-tender-systems-identity-review
   - SRC-2026-09-05-social-account-strategy
@@ -38,7 +39,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-05)
 - [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, named by an assistant and unconfirmed · `hypothesis` (2026-09-05)
-- [[public-surfaces]] — Accounts, handle grammar, voice, and management of the institution's public platforms outside source control · `working` (2026-09-05)
+- [[public-surfaces]] — Accounts, handles, voice, management, and an unconfirmed release and discovery structure · `working` (2026-09-05)
 
 ## Decisions
 
@@ -51,7 +52,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Open Questions
 
 - [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-05)
-- [[Q-002-internal-versus-public-language]] — How far internal language may describe what public language withholds · `unknown` (2026-09-05)
+- [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-05)
 
 ## Activity
 

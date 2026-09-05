@@ -29,3 +29,11 @@ Recorded as open: [[Q-001-shared-design-system]] and [[Q-002-internal-versus-pub
 Attribution care: the design-skill conversation ends with no user reply at all, so its layering model, its two English principles, and its proposed shared design skill are recorded as unconfirmed proposals rather than as direction. In the social-account conversation, the assistant's initial recommendation against per-system accounts and its stricter credential separation were both overridden by the user and are recorded as not adopted. The identity conversation's slogans, division names, and speculative subject-form pairings received no user response and were not promoted.
 
 What was not copied: project-scoped material — per-system design observations, per-system public copy strings, and the product and index examples — was left in raw, with each Lab repository remaining canonical for it. The source files contain the operator's personal name; they are preserved unchanged as evidence, and the name was not carried into any Wiki page.
+
+## [2026-09-05] ingest | Public release proposal registered
+
+Registered [[SRC-2026-09-05-how-to-show]] at `raw/conversations/2026-09-05-how-to-show.md` with hash `a9fc7d974ce281c885da0c855e1348ca74374dd5`, preserving the supplied file unchanged. The excerpt contains assistant-voice recommendations without role labels or a user response; all promoted material remains `llm-proposed` and unconfirmed.
+
+Extended [[public-surfaces]] with the proposed discovery-to-system route, web-first access, operational releases, gradual activation, and exhibition adaptation. This reinforces the existing public-language direction at proposal level without changing any decision. Extended [[Q-002-internal-versus-public-language]] with the unresolved tension between a proposed interpretive public archive and the existing public-copy rule. Updated [[current-state]] and [[index]]; no new page was needed.
+
+Left candidate slogans, system-specific copy and implementation examples, illustrative rollout milestones, and external platform submission claims in raw. No Lab content was duplicated, no live platform facts were adopted, and no launch or archive was recorded as approved. All three previously registered source hashes matched before ingestion.
