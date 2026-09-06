@@ -80,3 +80,9 @@ Extended [[creative-origin-and-motivation]] with a dated reflection on using Git
 Reviewed the pending source-link maintenance and traceable-creative-process ingestion. The new source hash matches its registry row; previously tracked originals have no changes under `raw/`. The creative-process reflection remains background memory, with no promotion to a user decision or institutional principle.
 
 Synchronized the 11 changed content pages and their catalog dates, the index metadata, and the activity and schema entries. Every Wiki page remains cataloged once with its existing status, and the changed pages' local source links resolve. The earlier source-link lint entry overstates its count: the reviewed diff converts 19 existing plain-text source paths across 10 pages, not 27. The new source references belong to the separate ingestion change. Existing log entries are preserved unchanged.
+
+## [2026-09-07] maintenance | Reduce routine context and verification work
+
+Replaced mandatory full-file startup with targeted catalog/page reading and on-demand schema, source, and history lookup. Shortened agent instructions while retaining institutional commit identity and each repository's standing push authorization. Removed the schema's conflicting periodic hash-audit rule: register a new source's hash once, inspect changed raw paths for routine edits, and reserve a complete provenance audit for an explicit request.
+
+Scoped lint and catalog updates to affected material and limited logging to durable results. Kept raw guides procedural and source-registry rows unchanged; registered originals and previous log entries are preserved. Updated only the affected repository-control catalog entries. Git-only work can reuse an unchanged completed review.

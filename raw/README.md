@@ -27,6 +27,8 @@ Every new source added under `raw/` must also be registered in `raw/sources.md`.
 
 This repository's raw layer holds only institution-level material: sources about TENDER SYSTEMS itself, its conventions, its public identity, and research shared across several systems. Material specific to a single system belongs in that system's Lab repository, which is its canonical source for that material. Do not copy a Lab repository's raw source here.
 
-## Current-State Notes
+## Finding sources and history
 
-As of 2026-09-05, the raw layer was created empty during the repository's alignment to the shared Wiki architecture. No source has been registered.
+Search [the registry](sources.md) by source ID/path for registration and provenance limits. Consult [the Wiki log](../wiki/log.md) for ingestion history; do not duplicate changing counts or chronology in this guide.
+
+For routine work, follow [AGENTS — Verification](../AGENTS.md#verification). Hash only the new source being registered; do not load the full source table or recheck unchanged originals.

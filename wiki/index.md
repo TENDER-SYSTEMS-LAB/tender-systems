@@ -69,10 +69,10 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Repository Control
 
 - [README](../README.md) — Public entry point for TENDER SYSTEMS and this repository; canonical English version (2026-09-05)
-- [AGENTS](../AGENTS.md) — Reading, language, ingestion, cross-project boundary, public identity, institutional Git identity, standing personal push authorization, and model-routing rules for agents (2026-09-05)
-- [Schema](../schema.md) — Page taxonomy, background notes, status, attribution, navigable source provenance, file naming, scope boundary, and maintenance rules (2026-09-07)
-- [Raw README](../raw/README.md) — How to add and preserve original source material, and what belongs in this repository's raw layer (2026-09-05)
-- [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-06)
+- [AGENTS](../AGENTS.md) — Task-sized reading, scoped verification, source preservation, institutional Git identity, and standing push authorization (2026-09-07)
+- [Schema](../schema.md) — On-demand page structure, attribution, provenance, catalog, and maintenance reference (2026-09-07)
+- [Raw README](../raw/README.md) — New-source registration, immutable originals, and targeted lookup guidance (2026-09-07)
+- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-07)
 
 ## Page Creation Gates
 
