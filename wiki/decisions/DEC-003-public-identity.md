@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
 ---
@@ -73,6 +73,6 @@ These were presented in the source as already-established policy rather than dec
 
 ## Sources
 
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)
 
 The source is a conversation export in which these rules appear inside a user-pasted instruction block.

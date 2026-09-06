@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
@@ -9,6 +9,7 @@ sources:
   - SRC-2026-09-05-social-account-strategy
   - SRC-2026-09-06-creative-origin-and-motivation
   - SRC-2026-09-06-engineering-background-and-artistic-possibility
+  - SRC-2026-09-06-traceable-creative-process
 ---
 
 # TENDER SYSTEMS Wiki Index
@@ -34,42 +35,42 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Core
 
-- [[overview]] — Definition, operating principles, knowledge architecture, and public identity of TENDER SYSTEMS · `working` (2026-09-05)
-- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-06)
+- [[overview]] — Definition, operating principles, knowledge architecture, and public identity of TENDER SYSTEMS · `working` (2026-09-07)
+- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-07)
 - [[registry]] — Canonical registry of systems operated by TENDER SYSTEMS, with identifiers, status, and repositories · `confirmed` (2026-09-05)
 
 ## Concepts
 
-- [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-05)
-- [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, named by an assistant and unconfirmed · `hypothesis` (2026-09-05)
-- [[public-surfaces]] — Accounts, handles, voice, management, and an unconfirmed release and discovery structure · `working` (2026-09-05)
+- [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-07)
+- [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, named by an assistant and unconfirmed · `hypothesis` (2026-09-07)
+- [[public-surfaces]] — Accounts, handles, voice, management, and an unconfirmed release and discovery structure · `working` (2026-09-07)
 
 ## Notes
 
-- [[creative-origin-and-motivation]] — Recalled motivation for AI creation and enjoyment, engineering background, and questions of audience interest and artistic self-realization; background memory, not an adopted philosophy · `working` (2026-09-06)
+- [[creative-origin-and-motivation]] — AI enjoyment, engineering background, artistic possibility, and GitHub/Wiki process traceability as creative interest; background memory, not an adopted philosophy · `working` (2026-09-07)
 
 ## Decisions
 
 - [[DEC-001-repository-conventions]] — Repository roles, naming, and when each repository is created · `confirmed` (2026-09-04)
 - [[DEC-002-decision-placement]] — Which repository a given decision belongs in · `confirmed` (2026-09-04)
-- [[DEC-003-public-identity]] — The identity used on public-facing source control, extended with public-surface rules · `confirmed` (2026-09-05)
-- [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-05)
-- [[DEC-005-public-facing-language]] — Public copy states what a system does and never explains or labels the work · `confirmed` (2026-09-05)
+- [[DEC-003-public-identity]] — The identity used on public-facing source control, extended with public-surface rules · `confirmed` (2026-09-07)
+- [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-07)
+- [[DEC-005-public-facing-language]] — Public copy states what a system does and never explains or labels the work · `confirmed` (2026-09-07)
 
 ## Open Questions
 
-- [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-05)
-- [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-05)
+- [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-07)
+- [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-07)
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-06)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-07)
 
 ## Repository Control
 
 - [README](../README.md) — Public entry point for TENDER SYSTEMS and this repository; canonical English version (2026-09-05)
 - [AGENTS](../AGENTS.md) — Reading, language, ingestion, cross-project boundary, public identity, institutional Git identity, standing personal push authorization, and model-routing rules for agents (2026-09-05)
-- [Schema](../schema.md) — Page taxonomy, including background notes, status, attribution, provenance, file naming, scope boundary, and maintenance rules (2026-09-06)
+- [Schema](../schema.md) — Page taxonomy, background notes, status, attribution, navigable source provenance, file naming, scope boundary, and maintenance rules (2026-09-07)
 - [Raw README](../raw/README.md) — How to add and preserve original source material, and what belongs in this repository's raw layer (2026-09-05)
 - [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-06)
 

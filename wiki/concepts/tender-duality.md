@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
 ---
@@ -38,4 +38,4 @@ These formulations are `llm-proposed`. They received no user reply in the conver
 
 ## Sources
 
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)

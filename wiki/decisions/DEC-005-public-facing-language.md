@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
   - SRC-2026-09-05-social-account-strategy
@@ -52,7 +52,7 @@ The work is encountered through the surface it presents; copy that explains the 
 
 ## Sources
 
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
-- [[SRC-2026-09-05-social-account-strategy]] — raw/conversations/2026-09-05-social-account-strategy.md
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)
+- [[SRC-2026-09-05-social-account-strategy]] — [raw/conversations/2026-09-05-social-account-strategy.md](../../raw/conversations/2026-09-05-social-account-strategy.md)
 
 In the identity conversation these rules appear inside a long instruction block the user pasted from work done elsewhere, so they are recorded there as already-established policy rather than newly decided. The social-account conversation evidences the rule through the user's rejections of specific drafts rather than through a general statement.

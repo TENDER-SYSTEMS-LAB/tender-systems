@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
 ---
@@ -56,6 +56,6 @@ The specific organizational vocabulary proposed in the conversation — division
 
 ## Sources
 
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)
 
 The assistant's opening synthesis in this conversation rests on its recollection of earlier conversations that are not registered in this repository, so its account of prior deliberation is a secondary citation.

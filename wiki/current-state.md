@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
@@ -9,11 +9,12 @@ sources:
   - SRC-2026-09-05-social-account-strategy
   - SRC-2026-09-06-creative-origin-and-motivation
   - SRC-2026-09-06-engineering-background-and-artistic-possibility
+  - SRC-2026-09-06-traceable-creative-process
 ---
 
 # Current State
 
-Six sources are registered, comprising five conversation records and one recommendation excerpt dated 2026-09-04 through 2026-09-06. The two latest sources preserve creative origin, motivation, and a follow-up on engineering background and artistic possibility as background. What follows draws on these sources and on the recorded institutional decisions, which carry no raw source of their own.
+Seven sources are registered, comprising six conversation records and one recommendation excerpt dated 2026-09-04 through 2026-09-06. The three latest sources preserve creative origin and motivation, engineering background and artistic possibility, and a reflection on a traceable creative process as background. What follows draws on these sources and on the recorded institutional decisions, which carry no raw source of their own.
 
 ## Confirmed
 
@@ -35,7 +36,7 @@ Six sources are registered, comprising five conversation records and one recomme
 
 ## Background records
 
-- [[creative-origin-and-motivation]] preserves the user's recalled inspiration and continuing motivation around AI creation and enjoyment, with a follow-up on engineering background, possible audience interest, and artistic self-realization. It remains background for future accounts of how the work began, not an adopted philosophy, institutional principle, or income goal.
+- [[creative-origin-and-motivation]] preserves the user's recalled inspiration and continuing motivation around AI creation and enjoyment, engineering background, possible audience interest, and artistic self-realization. A further reflection considers whether GitHub/Wiki records of work, AI dialogue, and decisions make the creative process itself an interesting feature of the work's world. It remains background for future accounts of how the work began, not an adopted philosophy, institutional principle, or income goal.
 
 ## Unknown
 
@@ -53,11 +54,12 @@ Several important conclusions still depend on a single source, even where a page
 
 ## Sources
 
-- [[SRC-2026-09-06-creative-origin-and-motivation]] — raw/conversations/2026-09-06-creative-origin-and-motivation.md
-- [[SRC-2026-09-06-engineering-background-and-artistic-possibility]] — raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md
+- [[SRC-2026-09-06-creative-origin-and-motivation]] — [raw/conversations/2026-09-06-creative-origin-and-motivation.md](../raw/conversations/2026-09-06-creative-origin-and-motivation.md)
+- [[SRC-2026-09-06-engineering-background-and-artistic-possibility]] — [raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md](../raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md)
+- [[SRC-2026-09-06-traceable-creative-process]] — [raw/conversations/2026-09-06-traceable-creative-process.md](../raw/conversations/2026-09-06-traceable-creative-process.md)
 
-- [[SRC-2026-09-05-how-to-show]] — raw/conversations/2026-09-05-how-to-show.md
+- [[SRC-2026-09-05-how-to-show]] — [raw/conversations/2026-09-05-how-to-show.md](../raw/conversations/2026-09-05-how-to-show.md)
 
-- [[SRC-2026-09-04-apple-design-skill-review]] — raw/conversations/2026-09-04-apple-design-skill-review.md
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
-- [[SRC-2026-09-05-social-account-strategy]] — raw/conversations/2026-09-05-social-account-strategy.md
+- [[SRC-2026-09-04-apple-design-skill-review]] — [raw/conversations/2026-09-04-apple-design-skill-review.md](../raw/conversations/2026-09-04-apple-design-skill-review.md)
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../raw/conversations/2026-09-04-tender-systems-identity-review.md)
+- [[SRC-2026-09-05-social-account-strategy]] — [raw/conversations/2026-09-05-social-account-strategy.md](../raw/conversations/2026-09-05-social-account-strategy.md)

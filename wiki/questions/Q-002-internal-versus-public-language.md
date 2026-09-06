@@ -1,7 +1,7 @@
 ---
 status: unknown
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-tender-systems-identity-review
@@ -54,8 +54,8 @@ The how-to-show excerpt proposes separating a minimally explanatory public exper
 
 ## Sources
 
-- [[SRC-2026-09-05-how-to-show]] — raw/conversations/2026-09-05-how-to-show.md
+- [[SRC-2026-09-05-how-to-show]] — [raw/conversations/2026-09-05-how-to-show.md](../../raw/conversations/2026-09-05-how-to-show.md)
 
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)
 
 The rules above appear inside a long instruction block the user pasted from work done outside this conversation, so the conversation is not the origin of the policy.

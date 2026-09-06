@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-05-social-account-strategy
@@ -96,8 +96,8 @@ The excerpt has no user reply and is the sole source for this release structure.
 
 ## Sources
 
-- [[SRC-2026-09-05-how-to-show]] — raw/conversations/2026-09-05-how-to-show.md
+- [[SRC-2026-09-05-how-to-show]] — [raw/conversations/2026-09-05-how-to-show.md](../../raw/conversations/2026-09-05-how-to-show.md)
 
-- [[SRC-2026-09-05-social-account-strategy]] — raw/conversations/2026-09-05-social-account-strategy.md
+- [[SRC-2026-09-05-social-account-strategy]] — [raw/conversations/2026-09-05-social-account-strategy.md](../../raw/conversations/2026-09-05-social-account-strategy.md)
 
 The assistant used live web search during this conversation and cited external help-centre and newsroom pages (Instagram/Meta Help Centre, X Help, a Meta newsroom post) that are not registered as sources in this repository; treat facts drawn from them as unverified until a source is registered. The assistant's account of LONGING's own Wiki, consulted while drafting bio copy, is a secondary citation here — the primary material lives in longing-lab, which remains canonical.

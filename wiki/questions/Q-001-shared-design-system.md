@@ -1,7 +1,7 @@
 ---
 status: unknown
 attribution: llm-proposed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-apple-design-skill-review
 ---
@@ -47,6 +47,6 @@ The conversation ends on that proposal with no user reply of any kind. Nothing h
 
 ## Sources
 
-- [[SRC-2026-09-04-apple-design-skill-review]] — raw/conversations/2026-09-04-apple-design-skill-review.md
+- [[SRC-2026-09-04-apple-design-skill-review]] — [raw/conversations/2026-09-04-apple-design-skill-review.md](../../raw/conversations/2026-09-04-apple-design-skill-review.md)
 
 The external repository referenced (`dickwu/apple-design-skill`) is not registered in this repository, and its contents are known only through the assistant's summary of having browsed it, which the export evidences only by an opaque tool-use marker. The per-system design observations in that conversation are project-scoped and are not recorded here.

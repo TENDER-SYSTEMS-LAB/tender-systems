@@ -1,7 +1,7 @@
 ---
 status: hypothesis
 attribution: llm-synthesis
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
 ---
@@ -51,4 +51,4 @@ Both the rule and the pairings are `llm-proposed` and unconfirmed by the user. T
 
 ## Sources
 
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)

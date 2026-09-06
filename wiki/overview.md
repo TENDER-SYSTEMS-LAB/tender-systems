@@ -1,7 +1,7 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-05
+updated: 2026-09-07
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
   - SRC-2026-09-05-social-account-strategy
@@ -48,7 +48,7 @@ Public-facing authorship is `TENDER SYSTEMS`, and documents are written as insti
 
 ## Sources
 
-- [[SRC-2026-09-04-tender-systems-identity-review]] — raw/conversations/2026-09-04-tender-systems-identity-review.md
-- [[SRC-2026-09-05-social-account-strategy]] — raw/conversations/2026-09-05-social-account-strategy.md
+- [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../raw/conversations/2026-09-04-tender-systems-identity-review.md)
+- [[SRC-2026-09-05-social-account-strategy]] — [raw/conversations/2026-09-05-social-account-strategy.md](../raw/conversations/2026-09-05-social-account-strategy.md)
 
 This page also synthesizes the recorded institutional decisions, which carry no raw source of their own. The identity conversation reports earlier deliberation that is not registered in this repository, so its account of prior discussion is a secondary citation.
