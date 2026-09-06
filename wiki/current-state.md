@@ -1,17 +1,19 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-05
+updated: 2026-09-06
 sources:
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
   - SRC-2026-09-04-tender-systems-identity-review
   - SRC-2026-09-05-social-account-strategy
+  - SRC-2026-09-06-creative-origin-and-motivation
+  - SRC-2026-09-06-engineering-background-and-artistic-possibility
 ---
 
 # Current State
 
-Four sources are registered, comprising three conversation exports and one recommendation excerpt of 2026-09-04 and 2026-09-05. What follows draws on them and on the recorded institutional decisions, which carry no raw source of their own.
+Six sources are registered, comprising five conversation records and one recommendation excerpt dated 2026-09-04 through 2026-09-06. The two latest sources preserve creative origin, motivation, and a follow-up on engineering background and artistic possibility as background. What follows draws on these sources and on the recorded institutional decisions, which carry no raw source of their own.
 
 ## Confirmed
 
@@ -31,6 +33,10 @@ Four sources are registered, comprising three conversation exports and one recom
 - Public accounts are managed from the operator's existing personal application session rather than through separated institutional credentials. This is the user's own proposal, adopted after an earlier stricter recommendation was set aside ([[public-surfaces]]).
 - No institution-level page exists under `wiki/systems/`, and `{project-slug}-web` implementation repositories do not exist for either system.
 
+## Background records
+
+- [[creative-origin-and-motivation]] preserves the user's recalled inspiration and continuing motivation around AI creation and enjoyment, with a follow-up on engineering background, possible audience interest, and artistic self-realization. It remains background for future accounts of how the work began, not an adopted philosophy, institutional principle, or income goal.
+
 ## Unknown
 
 - The exact live account handles on Instagram and YouTube. The user reported the accounts created but never restated the final strings, and the institutional handle originally intended was already taken. These need verification against the live accounts ([[public-surfaces]]).
@@ -46,6 +52,9 @@ Four sources are registered, comprising three conversation exports and one recom
 Several important conclusions still depend on a single source, even where a page now cites multiple sources. The release structure and experience/archive split depend solely on the unconfirmed how-to-show excerpt. Two of the earlier sources are secondary in part: the identity conversation reports earlier deliberation that is not registered here and carries operational rules the user pasted from work done elsewhere, and the social-account conversation relies on live web searches and on an assistant's reading of another repository's Wiki. Watch these dependencies as further material arrives.
 
 ## Sources
+
+- [[SRC-2026-09-06-creative-origin-and-motivation]] — raw/conversations/2026-09-06-creative-origin-and-motivation.md
+- [[SRC-2026-09-06-engineering-background-and-artistic-possibility]] — raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md
 
 - [[SRC-2026-09-05-how-to-show]] — raw/conversations/2026-09-05-how-to-show.md
 

@@ -41,3 +41,17 @@ Left candidate slogans, system-specific copy and implementation examples, illust
 ## [2026-09-05] maintenance | Recorded standing push authentication authorization
 
 The user explicitly authorized personal GitHub authentication for this repository after being informed that the push actor may remain visible in audit logs or other non-commit activity surfaces, and requested that `AGENTS.md` record the permission. Updated the policy to preserve this authorization for subsequent requested pushes to this repository without repeated approval. Every outgoing commit must still use the institutional author and committer identity, and authentication must still be verified before each push. The permission does not extend to other repositories or authorize unsolicited pushes. Updated the control-document catalog entry in [[index]]. No personal account identifier or credential was recorded.
+
+## [2026-09-06] ingest | Creative origin and motivation preserved as background
+
+Registered [[SRC-2026-09-06-creative-origin-and-motivation]] with hash `8ba347366ddac7087d51351ec4e7c18757b2306f`, preserving the user's complete Korean message, including its literal HTML space entities. All four previously registered source hashes matched before ingestion.
+
+Created [[creative-origin-and-motivation]] as a `user-originated` background note for later recollection of how the work began. Preserved the comparison between spending on books, performances, play, and travel and the apparent lack of shared noncommercial AI experiences, the enjoyment behind the question, and the gradual development of this initial inspiration and continuing motivation. Observations about other people's behavior remain a personal impression, not a verified finding. No philosophy, institutional principle, or public statement was adopted.
+
+Added the `note` page type and its naming and scope guidance to `schema.md` for this actual material. Registered the page under Notes in [[index]] and linked it separately under Background records in [[current-state]]. Existing decisions and public-language questions remain unchanged. No project-specific knowledge was copied from a Lab repository.
+
+## [2026-09-06] ingest | Engineering background and artistic possibility added to the origin note
+
+Registered [[SRC-2026-09-06-engineering-background-and-artistic-possibility]] with hash `a3b0a4b17bd6a03e050213c11225127ea52c428b`, preserving the complete Korean follow-up unchanged. All five previously registered source hashes matched before ingestion.
+
+Extended [[creative-origin-and-motivation]] with a dated Evolution section covering the self-described computer science/engineering and software-development background, DevOps work, identification with advanced LLM use, and the possibility that spending tokens and money on conceptual art could interest others and enable artistic self-realization. Audience interest or demand remains a question, and the apparent rarity of similar practice remains a personal impression. This supplements the earlier enjoyment and curiosity without adopting a philosophy or commercial objective. Updated [[index]], [[current-state]], and the note's provenance to include both direct accounts.

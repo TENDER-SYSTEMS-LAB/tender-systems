@@ -41,6 +41,7 @@ The current page types are:
 - **current-state** — A page showing where the organization stands now.
 - **registry** — The canonical catalog of systems operated by TENDER SYSTEMS. Each entry records: system ID, name, status, repository, one-line description, and related institutional documents.
 - **concept** — A page for an idea that crosses several systems.
+- **note** — A background record of inspiration, motivation, or reflection shared across works, retained for later recollection without making it an institutional principle or artistic philosophy.
 - **decision** — A page recording a decision that affected institutional direction.
 - **question** — A page for a central unresolved question.
 - **log** — The append-only work history.
@@ -126,6 +127,7 @@ sources:
 - Decisions: `wiki/decisions/DEC-NNN-short-slug.md`
 - Questions: `wiki/questions/Q-NNN-short-slug.md`
 - Concepts: `wiki/concepts/short-slug.md`
+- Notes: `wiki/notes/short-slug.md`
 - Raw sources: `raw/<type>/YYYY-MM-DD-short-slug.md`, registered with the source ID `SRC-YYYY-MM-DD-short-slug`
 
 Cross-link pages with `[[wikilink]]` syntax.
@@ -175,6 +177,8 @@ git hash-object raw/documents/*.md raw/conversations/*.md raw/surveys/*.md
 ## Scope Boundary
 
 This repository is the institutional layer: it stores principles common to several systems, institution-level decisions, the system registry, cross-system relationships, shared conventions, and public identity. Detailed knowledge belonging only to one system stays canonical in that system's own Lab repository and is never duplicated here; when in doubt, apply the two questions in [[DEC-002-decision-placement]].
+
+Background notes may also preserve inspiration and motivation shared across works when requested. Recording a recollection does not adopt it as a principle, a philosophy, or public copy; preserve its stated role and source attribution.
 
 ## Wiki Lint
 

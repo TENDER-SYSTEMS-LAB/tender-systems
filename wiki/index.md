@@ -1,12 +1,14 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-05
+updated: 2026-09-06
 sources:
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
   - SRC-2026-09-04-tender-systems-identity-review
   - SRC-2026-09-05-social-account-strategy
+  - SRC-2026-09-06-creative-origin-and-motivation
+  - SRC-2026-09-06-engineering-background-and-artistic-possibility
 ---
 
 # TENDER SYSTEMS Wiki Index
@@ -21,6 +23,7 @@ This is the Wiki's working content catalog. Excluding the index itself, every Wi
 | Latest snapshot of institutional decisions, scope, and priorities | [[current-state]] |
 | A system's identifier, status, repositories, or registry-level facts | [[registry]] |
 | An idea that develops across several systems | Relevant `wiki/concepts/` page |
+| Inspiration, motivation, or reflection shared across works and retained as background memory | Relevant `wiki/notes/` page |
 | A choice explicitly decided by the user and its rationale | Relevant `wiki/decisions/` page |
 | An unanswered question that remains under review | Relevant `wiki/questions/` page |
 | Chronological record of ingestion, queries, linting, and operational changes | Append to [[log]] |
@@ -32,7 +35,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Definition, operating principles, knowledge architecture, and public identity of TENDER SYSTEMS · `working` (2026-09-05)
-- [[current-state]] — Snapshot of confirmed institutional decisions, current work, and unknowns · `working` (2026-09-05)
+- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-06)
 - [[registry]] — Canonical registry of systems operated by TENDER SYSTEMS, with identifiers, status, and repositories · `confirmed` (2026-09-05)
 
 ## Concepts
@@ -40,6 +43,10 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-05)
 - [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, named by an assistant and unconfirmed · `hypothesis` (2026-09-05)
 - [[public-surfaces]] — Accounts, handles, voice, management, and an unconfirmed release and discovery structure · `working` (2026-09-05)
+
+## Notes
+
+- [[creative-origin-and-motivation]] — Recalled motivation for AI creation and enjoyment, engineering background, and questions of audience interest and artistic self-realization; background memory, not an adopted philosophy · `working` (2026-09-06)
 
 ## Decisions
 
@@ -56,15 +63,15 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-05)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-06)
 
 ## Repository Control
 
 - [README](../README.md) — Public entry point for TENDER SYSTEMS and this repository; canonical English version (2026-09-05)
 - [AGENTS](../AGENTS.md) — Reading, language, ingestion, cross-project boundary, public identity, institutional Git identity, standing personal push authorization, and model-routing rules for agents (2026-09-05)
-- [Schema](../schema.md) — Page taxonomy, status, attribution, provenance, file naming, scope boundary, and maintenance rules (2026-09-05)
+- [Schema](../schema.md) — Page taxonomy, including background notes, status, attribution, provenance, file naming, scope boundary, and maintenance rules (2026-09-06)
 - [Raw README](../raw/README.md) — How to add and preserve original source material, and what belongs in this repository's raw layer (2026-09-05)
-- [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-05)
+- [Raw Source Index](../raw/sources.md) — IDs, paths, hashes, and ingestion status for every raw source (2026-09-06)
 
 ## Page Creation Gates
 
