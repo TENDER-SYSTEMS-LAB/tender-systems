@@ -3,6 +3,14 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-chatgpt-artist-name-survey
+  - SRC-2026-09-07-claude-artist-name-survey
+  - SRC-2026-09-07-deepseek-artist-name-survey
+  - SRC-2026-09-07-gemini-artist-name-survey
+  - SRC-2026-09-07-glm-artist-name-survey
+  - SRC-2026-09-07-grok-artist-name-survey
+  - SRC-2026-09-07-qwen-artist-name-survey
+  - SRC-2026-09-07-academic-guidance-and-leonardo-publication
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
   - SRC-2026-09-04-tender-systems-identity-review
@@ -48,6 +56,10 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[public-surfaces]] — Accounts, handles, voice, management, and an unconfirmed release and discovery structure · `working` (2026-09-07)
 
 ## Notes
+
+- [[artist-name-survey]] — Seven LLM artist-name recommendations, competing interpretations, and verification limits; no personal name adopted · `working` (2026-09-07)
+
+- [[academic-guidance-and-publication]] — Interest in academic guidance, 강이연 and Leonardo, with unconfirmed candidates and preparation routes · `working` (2026-09-07)
 
 - [[creative-origin-and-motivation]] — AI enjoyment, engineering background, artistic possibility, process traceability, and three stated motivations on disappearing romance, self-funded practice, and trust, love, and understanding; background memory, not an adopted philosophy · `working` (2026-09-07)
 

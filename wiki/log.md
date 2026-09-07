@@ -108,3 +108,12 @@ Restored the ACTIVE SYSTEMS heading and added THE RESERVE with its verified repo
 ## [2026-09-07] decision | Confirm RS-001 — THE RESERVE
 
 Registered the selected approval exchange as SRC-2026-09-07-the-reserve-identifier-confirmation. The user confirmed RS-001 — THE RESERVE and requested README and Wiki updates followed by commits and pushes in both repositories. Updated the relevant public entry point, identity records, current state, and catalog; preserved the earlier proposal history and the unconfirmed social handle and operating model. TENDER SYSTEMS records the active system in its registry; the Lab retains the canonical naming decision.
+
+## [2026-09-07] ingest | Academic guidance and Leonardo publication interest
+
+Renamed the new conversation to `2026-09-07-academic-guidance-and-leonardo-publication.md` without changing its bytes and registered SRC-2026-09-07-academic-guidance-and-leonardo-publication. Created [[academic-guidance-and-publication]] for the user's academic-guidance search and subsequent interest in 강이연 and Leonardo. Distinguished that interest from assistant-proposed candidate comparisons, research approaches, and preparation routes. Linked existing motivation, language, and identity records, and synchronized [[current-state]] and [[index]]. External claims remain dated secondary reports; no advisor, work, submission plan, public-identity exception, or Lab design was adopted.
+
+
+## [2026-09-07] ingest | Seven LLM artist-name surveys
+
+Renamed the seven new `{model}-auther-name.md` files to `2026-09-07-{model}-artist-name-survey.md` at the user's request, preserved their bytes, and registered their source IDs and Git blob hashes. Created [[artist-name-survey]] to compare each answer's first choice, alternatives, interpretations, and verification limits; synchronized [[current-state]] and [[index]]. All candidates remain llm-proposed, and reported prior rejections and external checks remain secondary accounts. No name, institutional identity change, or artistic philosophy was adopted. Existing uncommitted academic-guidance ingestion and all earlier log content were preserved.
