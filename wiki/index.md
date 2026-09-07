@@ -10,6 +10,8 @@ sources:
   - SRC-2026-09-06-creative-origin-and-motivation
   - SRC-2026-09-06-engineering-background-and-artistic-possibility
   - SRC-2026-09-06-traceable-creative-process
+  - SRC-2026-09-07-creator-motivation-statements
+  - SRC-2026-09-07-alganzi-ai-video
 ---
 
 # TENDER SYSTEMS Wiki Index
@@ -47,7 +49,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Notes
 
-- [[creative-origin-and-motivation]] — AI enjoyment, engineering background, artistic possibility, and GitHub/Wiki process traceability as creative interest; background memory, not an adopted philosophy · `working` (2026-09-07)
+- [[creative-origin-and-motivation]] — AI enjoyment, engineering background, artistic possibility, process traceability, and three stated motivations on disappearing romance, self-funded practice, and trust, love, and understanding; background memory, not an adopted philosophy · `working` (2026-09-07)
 
 ## Decisions
 

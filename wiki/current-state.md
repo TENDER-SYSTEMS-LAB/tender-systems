@@ -10,11 +10,13 @@ sources:
   - SRC-2026-09-06-creative-origin-and-motivation
   - SRC-2026-09-06-engineering-background-and-artistic-possibility
   - SRC-2026-09-06-traceable-creative-process
+  - SRC-2026-09-07-creator-motivation-statements
+  - SRC-2026-09-07-alganzi-ai-video
 ---
 
 # Current State
 
-Seven sources are registered, comprising six conversation records and one recommendation excerpt dated 2026-09-04 through 2026-09-06. The three latest sources preserve creative origin and motivation, engineering background and artistic possibility, and a reflection on a traceable creative process as background. What follows draws on these sources and on the recorded institutional decisions, which carry no raw source of their own.
+Nine sources are registered, dated 2026-09-04 through 2026-09-07: seven conversation records, one of them a recommendation excerpt; one document of the user's own statements; and one external video registered as a reference whose transcript is held locally rather than published here. The four most recent preserve creative origin and motivation, engineering background and artistic possibility, a reflection on a traceable creative process, and three stated creative motivations, all as background. What follows draws on these sources and on the recorded institutional decisions, which carry no raw source of their own.
 
 ## Confirmed
 
@@ -36,7 +38,7 @@ Seven sources are registered, comprising six conversation records and one recomm
 
 ## Background records
 
-- [[creative-origin-and-motivation]] preserves the user's recalled inspiration and continuing motivation around AI creation and enjoyment, engineering background, possible audience interest, and artistic self-realization. A further reflection considers whether GitHub/Wiki records of work, AI dialogue, and decisions make the creative process itself an interesting feature of the work's world. It remains background for future accounts of how the work began, not an adopted philosophy, institutional principle, or income goal.
+- [[creative-origin-and-motivation]] preserves the user's recalled inspiration and continuing motivation around AI creation and enjoyment, engineering background, possible audience interest, and artistic self-realization. A further reflection considers whether GitHub/Wiki records of work, AI dialogue, and decisions make the creative process itself an interesting feature of the work's world. It remains background for future accounts of how the work began, not an adopted philosophy, institutional principle, or income goal. On 2026-09-07 the user added three stated motivations, prompted by an external video: making work with AI on the subject of disappearing human romance (`낭만`), "wasting" the user's own money for self-realization as an artist, and hoping the work makes it possible to discover, reflect on, and empathize with trust, love, and understanding. These are the user's statements; the video's claims and the assistant's reading of them are recorded separately and remain unadopted.
 
 ## Unknown
 
@@ -57,6 +59,8 @@ Several important conclusions still depend on a single source, even where a page
 - [[SRC-2026-09-06-creative-origin-and-motivation]] — [raw/conversations/2026-09-06-creative-origin-and-motivation.md](../raw/conversations/2026-09-06-creative-origin-and-motivation.md)
 - [[SRC-2026-09-06-engineering-background-and-artistic-possibility]] — [raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md](../raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md)
 - [[SRC-2026-09-06-traceable-creative-process]] — [raw/conversations/2026-09-06-traceable-creative-process.md](../raw/conversations/2026-09-06-traceable-creative-process.md)
+- [[SRC-2026-09-07-creator-motivation-statements]] — [raw/documents/2026-09-07-creator-motivation-statements.md](../raw/documents/2026-09-07-creator-motivation-statements.md)
+- [[SRC-2026-09-07-alganzi-ai-video]] — [youtu.be/W_ChhnAM7GY](https://youtu.be/W_ChhnAM7GY); transcript held locally, see the [Raw Source Index](../raw/sources.md)
 
 - [[SRC-2026-09-05-how-to-show]] — [raw/conversations/2026-09-05-how-to-show.md](../raw/conversations/2026-09-05-how-to-show.md)
 
