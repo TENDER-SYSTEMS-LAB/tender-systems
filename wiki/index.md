@@ -39,7 +39,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[overview]] — Definition, operating principles, knowledge architecture, and public identity of TENDER SYSTEMS · `working` (2026-09-07)
 - [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-07)
-- [[registry]] — Canonical registry of systems operated by TENDER SYSTEMS, with identifiers, status, and repositories · `confirmed` (2026-09-05)
+- [[registry]] — Canonical registry of OG-001, LN-001, and RS-001, with status and repositories · `confirmed` (2026-09-07)
 
 ## Concepts
 
@@ -70,7 +70,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 ## Repository Control
 
-- [README](../README.md) — Public entry point for TENDER SYSTEMS and this repository; canonical English version (2026-09-05)
+- [README](../README.md) — Concise public entry point with the institutional tagline, system links, overview, and archive (2026-09-07)
 - [AGENTS](../AGENTS.md) — Task-sized reading, scoped verification, source preservation, institutional Git identity, and standing push authorization (2026-09-07)
 - [Schema](../schema.md) — On-demand page structure, attribution, provenance, catalog, and maintenance reference (2026-09-07)
 - [Raw README](../raw/README.md) — New-source registration, immutable originals, and targeted lookup guidance (2026-09-07)

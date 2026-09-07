@@ -96,3 +96,15 @@ Extended [[creative-origin-and-motivation]] with a dated section carrying all th
 The video's content is summarized only as what its speaker and the people it quotes say, against verified timestamps, with no fact-checking of its historical, legal, corporate, or research claims and no restatement of its testimony about death and self-harm. The assistant's reading of the three statements is marked `llm-proposed` and unaccepted. Synchronized the catalog entry, background record, and source lists in [[index]] and [[current-state]]; no decision, registry entry, public copy, or Lab-owned material changed.
 
 Republishing a third party's full transcript in a public repository remains an open publication decision, so the transcript and the LLM editorial package that accompanied it are preserved locally outside `raw/` and are not tracked by Git. The registry records their SHA-256 values and states that no Git blob hash exists for them.
+
+## [2026-09-07] maintenance | Simplify the public README
+
+Shortened the README to the existing institutional tagline, existing system links, and Overview / Archive navigation, following the concise public entry points in LONGING, OTHER GOODS, and THE RESERVE. Removed detailed repository and operating guidance from the README and updated its catalog entry.
+
+## [2026-09-07] maintenance | Add THE RESERVE to the README
+
+Restored the ACTIVE SYSTEMS heading and added THE RESERVE with its verified repository URL at the user's request. Retained the existing system links and concise navigation.
+
+## [2026-09-07] decision | Confirm RS-001 — THE RESERVE
+
+Registered the selected approval exchange as SRC-2026-09-07-the-reserve-identifier-confirmation. The user confirmed RS-001 — THE RESERVE and requested README and Wiki updates followed by commits and pushes in both repositories. Updated the relevant public entry point, identity records, current state, and catalog; preserved the earlier proposal history and the unconfirmed social handle and operating model. TENDER SYSTEMS records the active system in its registry; the Lab retains the canonical naming decision.

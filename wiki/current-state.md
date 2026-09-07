@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-07
 sources:
+  - SRC-2026-09-07-the-reserve-identifier-confirmation
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-04-apple-design-skill-review
   - SRC-2026-09-04-tender-systems-identity-review
@@ -16,7 +17,7 @@ sources:
 
 # Current State
 
-Nine sources are registered, dated 2026-09-04 through 2026-09-07: seven conversation records, one of them a recommendation excerpt; one document of the user's own statements; and one external video registered as a reference whose transcript is held locally rather than published here. The four most recent preserve creative origin and motivation, engineering background and artistic possibility, a reflection on a traceable creative process, and three stated creative motivations, all as background. What follows draws on these sources and on the recorded institutional decisions, which carry no raw source of their own.
+Registered sources include institutional conversations, a recommendation excerpt, background reflections on creative origin, engineering, and traceable process, three stated creative motivations and their external video context, and the 2026-09-07 confirmation of RS-001 — THE RESERVE. The video transcript is held locally rather than published here. What follows draws on these sources and earlier recorded institutional decisions, some of which carry no raw source of their own.
 
 ## Confirmed
 
@@ -25,16 +26,16 @@ Nine sources are registered, dated 2026-09-04 through 2026-09-07: seven conversa
 - Public identity on source control is `TENDER SYSTEMS`, configured per repository rather than globally. Extended on 2026-09-05 with public-surface rules: private organization membership, empty repository topics, a minimal organization profile, and the `ACTIVE SYSTEMS` heading ([[DEC-003-public-identity]]).
 - TENDER SYSTEMS presents as an organization rather than as a single author, reads as one brand underneath that surface, and derives its identity from the systems already built ([[DEC-004-institutional-voice]]).
 - Public copy states what a system does and does not explain, interpret, or label the work; it does not call the work an art project or declare the institution fictional ([[DEC-005-public-facing-language]]).
-- Two active systems, OG-001 OTHER GOODS and LN-001 LONGING, each canonical in its own Lab repository ([[registry]]).
+- Three active systems, OG-001 OTHER GOODS, LN-001 LONGING, and RS-001 THE RESERVE, each canonical in its own Lab repository ([[registry]]).
 - The shared three-layer Wiki architecture is instantiated in other-goods-lab, longing-lab, and this repository as of 2026-09-05.
-- Instagram and YouTube accounts exist for the institution and for both systems, one account per entity, reported created by the user on 2026-09-05 ([[public-surfaces]]).
+- Instagram and YouTube accounts exist for the institution, OTHER GOODS, and LONGING, one account per entity, reported created by the user on 2026-09-05 ([[public-surfaces]]).
 
 ## Working
 
 - The dual sense of `tender` — tenderness and transaction — is part of the identity at the user's instruction; the specific slogans built on it are not adopted ([[tender-duality]]).
 - The handle grammar for public accounts: a bare institutional handle, per-system handles appending the system code, bare display names, codes in the bio. Adopted through use rather than by an explicit statement ([[public-surfaces]]).
 - Public accounts are managed from the operator's existing personal application session rather than through separated institutional credentials. This is the user's own proposal, adopted after an earlier stricter recommendation was set aside ([[public-surfaces]]).
-- No institution-level page exists under `wiki/systems/`, and `{project-slug}-web` implementation repositories do not exist for either system.
+- No institution-level page exists under `wiki/systems/`, and `{project-slug}-web` implementation repositories do not exist for OTHER GOODS or LONGING in the existing record; THE RESERVE implementation-repository status is not confirmed here.
 
 ## Background records
 
@@ -55,6 +56,8 @@ Nine sources are registered, dated 2026-09-04 through 2026-09-07: seven conversa
 Several important conclusions still depend on a single source, even where a page now cites multiple sources. The release structure and experience/archive split depend solely on the unconfirmed how-to-show excerpt. Two of the earlier sources are secondary in part: the identity conversation reports earlier deliberation that is not registered here and carries operational rules the user pasted from work done elsewhere, and the social-account conversation relies on live web searches and on an assistant's reading of another repository's Wiki. Watch these dependencies as further material arrives.
 
 ## Sources
+
+- [[SRC-2026-09-07-the-reserve-identifier-confirmation]] — [raw/conversations/2026-09-07-the-reserve-identifier-confirmation.md](../raw/conversations/2026-09-07-the-reserve-identifier-confirmation.md)
 
 - [[SRC-2026-09-06-creative-origin-and-motivation]] — [raw/conversations/2026-09-06-creative-origin-and-motivation.md](../raw/conversations/2026-09-06-creative-origin-and-motivation.md)
 - [[SRC-2026-09-06-engineering-background-and-artistic-possibility]] — [raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md](../raw/conversations/2026-09-06-engineering-background-and-artistic-possibility.md)
