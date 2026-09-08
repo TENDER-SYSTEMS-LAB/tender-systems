@@ -1,8 +1,9 @@
 ---
 status: unknown
 attribution: jointly-developed
-updated: 2026-09-08
+updated: 2026-09-09
 sources:
+  - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-youtube-content-plan
 ---
 
@@ -53,6 +54,12 @@ The conversation does not choose between these readings, because the assistant h
 
 The channel as described speaks in the operator's first person, and the proposed name is built on the operator's given name. Neither party in the conversation acknowledges any conflict with [[DEC-003-public-identity]]. It is also undecided whether such a channel would belong to the institution, to a system, or to the operator personally — it matches none of the three per-entity account structures recorded in [[public-surfaces]]. The proposed name itself is deliberately not reproduced in this Wiki.
 
+## Visual-development follow-up
+
+The separate visual-identity export dated 2026-09-08 records a user-originated plan for initial videos with a solid background, voice, and captions, a preference for overall visual unity, and acceptance of proceeding to a `作` logo mockup. [[public-surfaces]] records the working palette and typography and the move away from an intentionally contrasting IBM Plex pairing. This qualifies the earlier absence of adoption: a visual direction now has user engagement and mockup authorization, while the earlier compiled episode plan still has no recorded acceptance.
+
+Referring to "my channel" and requesting a mockup do not establish a live account, its ownership, final name adoption, or approval of the resulting asset. Neither exchange explicitly resolves the public-language or identity boundary. The question therefore remains `unknown`; visual development is not an exception to the existing decisions.
+
 ## Open sub-questions
 
 - Whether the public-language rule in [[DEC-005-public-facing-language]] covers operator-voiced video at all.
@@ -69,6 +76,8 @@ The channel as described speaks in the operator's first person, and the proposed
 - [[creative-origin-and-motivation]]
 
 ## Sources
+
+- [[SRC-2026-09-08-youtube-visual-identity]] — [raw/conversations/2026-09-08-youtube-visual-identity.md](../../raw/conversations/2026-09-08-youtube-visual-identity.md)
 
 - [[SRC-2026-09-08-youtube-content-plan]] — [raw/conversations/2026-09-08-youtube-content-plan.md](../../raw/conversations/2026-09-08-youtube-content-plan.md)
 

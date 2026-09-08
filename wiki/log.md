@@ -147,3 +147,9 @@ The user decided that the operator's personal name appearing inside some registe
 Recorded as an extension to [[DEC-003-public-identity]] so that the exception is visible where the rule lives. The rule itself did not change: maintained documentation, repository metadata, and commit identity continue to carry no personal attribution. Raw originals are evidence and are never edited, so the exception belongs to the evidence layer.
 
 No original was altered, no history was rewritten, and no masked replacement was registered. Synchronized the affected catalog entry in [[index]].
+
+## [2026-09-09] ingest | YouTube visual identity and initial video format
+
+Renamed the supplied export to `raw/conversations/2026-09-08-youtube-visual-identity.md` before registration with its bytes preserved, and registered [[SRC-2026-09-08-youtube-visual-identity]] with its Git blob hash. The source date follows the visible 2026-09-08 dialogue rather than the export date.
+
+Extended [[public-surfaces]] with the user's initial video format, comfort and visual-unity preferences, the IBM Plex-to-Pretendard discussion, and acceptance of proceeding to a modern Mincho `作` mockup. Kept the assistant's detailed palette/layout specification at working proposal level and distinguished mockup authorization from final image approval. The remote image binary is absent; platform, contrast, and licensing reports were not independently verified. Updated [[Q-003-operator-voice-on-public-channels]], [[current-state]], and [[index]] without resolving the institutional identity or public-language boundary. Earlier log content was preserved.

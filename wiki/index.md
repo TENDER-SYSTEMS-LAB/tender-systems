@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-08
+updated: 2026-09-09
 sources:
+  - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-bibliography-survey
   - SRC-2026-09-08-human-social-engineering-models
   - SRC-2026-09-08-youtube-content-plan
@@ -49,14 +50,14 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Definition, operating principles, knowledge architecture, and public identity of TENDER SYSTEMS · `working` (2026-09-07)
-- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-08)
+- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-09)
 - [[registry]] — Canonical registry of OG-001, LN-001, and RS-001, with status and repositories · `confirmed` (2026-09-07)
 
 ## Concepts
 
 - [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-07)
 - [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, unconfirmed, with proposed supporting literature · `hypothesis` (2026-09-08)
-- [[public-surfaces]] — Accounts, handles, voice, management, an unconfirmed release and discovery structure, and a proposed operator-voiced channel · `working` (2026-09-08)
+- [[public-surfaces]] — Accounts, handles, voice, management, an unconfirmed release and discovery structure, and an operator-channel working visual direction · `working` (2026-09-09)
 
 ## Notes
 
@@ -80,11 +81,11 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-07)
 - [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-07)
-- [[Q-003-operator-voice-on-public-channels]] — Whether operator-voiced explanatory video falls under the public-language rule, and under whose identity such a channel would run · `unknown` (2026-09-08)
+- [[Q-003-operator-voice-on-public-channels]] — Whether operator-voiced explanatory video falls under the public-language rule, and under whose identity such a channel would run · `unknown` (2026-09-09)
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-08)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-09)
 
 ## Repository Control
 

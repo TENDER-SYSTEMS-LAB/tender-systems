@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-08
+updated: 2026-09-09
 sources:
+  - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-bibliography-survey
   - SRC-2026-09-08-human-social-engineering-models
   - SRC-2026-09-08-youtube-content-plan
@@ -43,6 +44,8 @@ Registered sources include institutional conversations, a recommendation excerpt
 
 ## Working
 
+- The operator-channel visual discussion establishes a user-stated initial format of solid background, voice, and captions and a preference for visual unity. A modern Mincho `作` with Pretendard captions and an ivory/charcoal palette proceeds to a requested mockup; final asset approval and detailed production settings remain unconfirmed ([[public-surfaces]]).
+
 - Seven LLM answers explore a personal artist pseudonym outside the work's world. [[artist-name-survey]] compares their differing first choices and evidentiary limits; every candidate remains llm-proposed.
 
 - The user wants guidance on developing web/app artworks into papers, preferably from professors in Korea, and expressed interest in 강이연 and the journal interpreted as Leonardo. [[academic-guidance-and-publication]] retains candidate comparisons and proposed preparation routes; no advisor, work, or submission plan was selected.
@@ -68,7 +71,7 @@ Registered sources include institutional conversations, a recommendation excerpt
 - Where the boundary falls between internal working language and public language ([[Q-002-internal-versus-public-language]]).
 - Whether the structural method shared by the current systems is an intentional institutional rule. It was named by an assistant and not confirmed ([[tender-subject-systematic-form]]).
 - Whether to adopt the proposed web-first release structure: social discovery, a minimal institutional index, direct system experiences, and a separate archive. The new excerpt contains recommendations without user acceptance; neither a release sequence nor a public interpretive archive is approved ([[public-surfaces]], [[Q-002-internal-versus-public-language]]).
-- Whether long-form commentary spoken by the operator in the first person falls under the public-language rule, and under whose identity such a channel would run. A video plan was discussed on 2026-09-08; no channel was created and nothing was adopted ([[Q-003-operator-voice-on-public-channels]], [[public-surfaces]]).
+- Whether long-form commentary spoken by the operator in the first person falls under the public-language rule, and under whose identity such a channel would run. A video plan and visual direction were discussed on 2026-09-08, including a requested logo mockup; live channel creation, final asset adoption, and an exception to institutional rules are not established ([[Q-003-operator-voice-on-public-channels]], [[public-surfaces]]).
 - Whether the two proposed reading disciplines for shared research — distinguishing kinds of model, and separating a model's original assumptions from what the work changes — are adopted. Both are unconfirmed proposals ([[bibliography-survey]]).
 - Which public platform comes next. The proposed sequence is unconfirmed ([[public-surfaces]]).
 - What a system's `archived` status will require in practice, since no system has reached it.
@@ -78,6 +81,8 @@ Registered sources include institutional conversations, a recommendation excerpt
 Several important conclusions still depend on a single source, even where a page now cites multiple sources. The release structure and experience/archive split depend solely on the unconfirmed how-to-show excerpt. Two of the earlier sources are secondary in part: the identity conversation reports earlier deliberation that is not registered here and carries operational rules the user pasted from work done elsewhere, and the social-account conversation relies on live web searches and on an assistant's reading of another repository's Wiki. Watch these dependencies as further material arrives.
 
 ## Sources
+
+- [[SRC-2026-09-08-youtube-visual-identity]] — [raw/conversations/2026-09-08-youtube-visual-identity.md](../raw/conversations/2026-09-08-youtube-visual-identity.md)
 
 - [[SRC-2026-09-07-chatgpt-artist-name-survey]] — [raw/surveys/2026-09-07-chatgpt-artist-name-survey.md](../raw/surveys/2026-09-07-chatgpt-artist-name-survey.md)
 - [[SRC-2026-09-07-claude-artist-name-survey]] — [raw/surveys/2026-09-07-claude-artist-name-survey.md](../raw/surveys/2026-09-07-claude-artist-name-survey.md)

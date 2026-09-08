@@ -1,8 +1,9 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-08
+updated: 2026-09-09
 sources:
+  - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-05-social-account-strategy
   - SRC-2026-09-08-youtube-content-plan
@@ -77,11 +78,33 @@ Which platform comes next is undecided. The assistant proposed a sequence — Th
 
 Platform facts cited by the assistant in that exchange — a Threads monthly-active-user figure and X's username length limit — came from assistant web searches conducted on 2026-09-05 and need re-verification before use, since they were not independently checked against a registered source.
 
-A fourth public surface has since been proposed: a video channel voiced by the operator in the first person, distinct from the three entity accounts recorded above. No channel was created, and no name was adopted; the plan's episode list, ordering, video structure, and proposed name are `llm-proposed` and received no user reply. The user's own contribution is four seed topics, two derived topic titles, and a preference for a weekly cadence:
+A fourth public surface has since been proposed: a video channel voiced by the operator in the first person, distinct from the three entity accounts recorded above. The content-plan export does not establish channel creation or name adoption; its episode list, ordering, video structure, and proposed name are `llm-proposed` and received no user reply within that export. The user's own contribution is four seed topics, two derived topic titles, and a preference for a weekly cadence:
 
 > "한주에 하나씩 영상을 공개하면 좋을 것 같네."
 
 Whether such a surface is permitted, and under whose identity it would run, is open — see [[Q-003-operator-voice-on-public-channels]].
+
+## Operator-channel visual direction
+
+Status: `working`; attribution: `jointly-developed`.
+
+The visual-identity conversation adds concrete development to the operator-voiced channel proposal above. The user intends initial videos to use a solid background, voice, and captions, wants comfortable viewing across light and dark environments, and wants a reason behind the typography. These are `user-originated` intentions, not evidence of a published video. The user describes the profile mark as a Mincho-like `作` and favors a unified atmosphere across the channel.
+
+The typography discussion changes direction consequentially. After an initial Pretendard recommendation, the user expresses interest in IBM Plex Sans for its rationale but questions its fit with the mark. The assistant proposes contrasting a Mincho mark with IBM Plex as a technical recording interface. The user then prioritizes overall unity, and the assistant returns to a modern Mincho `作` with Pretendard Medium captions. The user responds "오케이 그렇게 하면 유튜브 로고가 어떻게 바뀌어?" and subsequently requests an image. This accepts proceeding with the direction to a mockup; the deliberate IBM Plex contrast is not the adopted direction, and no reply approves the final generated asset.
+
+The assistant's working specification is preserved for that mockup, not as an institutional design standard:
+
+| Element | Proposed treatment |
+|---|---|
+| Profile | Warm ivory `#F2EBDD` background; charcoal `#252525` modern Mincho `作`; no small subtitle |
+| Video | Charcoal `#252525` background; warm ivory `#F2EBDD` captions |
+| Caption typography | Pretendard Medium (500); SemiBold (600) for emphasis |
+| Initial layout | At 1920 × 1080, start at 72 px, approximately 1.4 line spacing, and one or two lines; no outline or shadow |
+| Profile mockup | 800 × 800 canvas; centered mark approximately 45–55% of canvas width; inspect at 96 × 96; no border or decoration |
+
+The exact Mincho font is unnamed. Dimensions, weights, layout settings, separate CC captions, and bright/dark-room sample checks are `llm-proposed` details without individual confirmation. The source assistant's claims about YouTube theme behavior, contrast, and font licensing were not independently verified during ingestion and are not promoted as platform or accessibility guarantees.
+
+The export ends with a remote generated-image reference. Its text records generation, but the image binary is not archived here and its actual appearance was not verified. Final asset approval, channel creation, account ownership, and the relationship to institutional public-language and identity rules remain unresolved in [[Q-003-operator-voice-on-public-channels]]. This source advances visual development without establishing a launch or changing those rules.
 
 ## Proposed release and discovery structure
 
@@ -102,6 +125,8 @@ The excerpt has no user reply and is the sole source for this release structure.
 - [[registry]]
 
 ## Sources
+
+- [[SRC-2026-09-08-youtube-visual-identity]] — [raw/conversations/2026-09-08-youtube-visual-identity.md](../../raw/conversations/2026-09-08-youtube-visual-identity.md)
 
 - [[SRC-2026-09-05-how-to-show]] — [raw/conversations/2026-09-05-how-to-show.md](../../raw/conversations/2026-09-05-how-to-show.md)
 
