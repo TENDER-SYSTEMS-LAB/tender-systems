@@ -1,8 +1,11 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
+  - SRC-2026-09-08-bibliography-survey
+  - SRC-2026-09-08-human-social-engineering-models
+  - SRC-2026-09-08-youtube-content-plan
   - SRC-2026-09-07-chatgpt-artist-name-survey
   - SRC-2026-09-07-claude-artist-name-survey
   - SRC-2026-09-07-deepseek-artist-name-survey
@@ -46,14 +49,14 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Definition, operating principles, knowledge architecture, and public identity of TENDER SYSTEMS · `working` (2026-09-07)
-- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-07)
+- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-08)
 - [[registry]] — Canonical registry of OG-001, LN-001, and RS-001, with status and repositories · `confirmed` (2026-09-07)
 
 ## Concepts
 
 - [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-07)
-- [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, named by an assistant and unconfirmed · `hypothesis` (2026-09-07)
-- [[public-surfaces]] — Accounts, handles, voice, management, and an unconfirmed release and discovery structure · `working` (2026-09-07)
+- [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, unconfirmed, with proposed supporting literature · `hypothesis` (2026-09-08)
+- [[public-surfaces]] — Accounts, handles, voice, management, an unconfirmed release and discovery structure, and a proposed operator-voiced channel · `working` (2026-09-08)
 
 ## Notes
 
@@ -62,6 +65,8 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[academic-guidance-and-publication]] — Interest in academic guidance, 강이연 and Leonardo, with unconfirmed candidates and preparation routes · `working` (2026-09-07)
 
 - [[creative-origin-and-motivation]] — AI enjoyment, engineering background, artistic possibility, process traceability, and three stated motivations on disappearing romance, self-funded practice, and trust, love, and understanding; background memory, not an adopted philosophy · `working` (2026-09-07)
+
+- [[bibliography-survey]] — Unadopted reference survey: institution-level artworks and papers, an annotated bibliography document, and two proposed reading disciplines · `working` (2026-09-08)
 
 ## Decisions
 
@@ -75,10 +80,11 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-07)
 - [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-07)
+- [[Q-003-operator-voice-on-public-channels]] — Whether operator-voiced explanatory video falls under the public-language rule, and under whose identity such a channel would run · `unknown` (2026-09-08)
 
 ## Activity
 
-- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-07)
+- [[log]] — Append-only history of ingestion, queries, linting, decisions, and maintenance (2026-09-08)
 
 ## Repository Control
 
@@ -86,7 +92,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [AGENTS](../AGENTS.md) — Task-sized reading, scoped verification, source preservation, institutional Git identity, and standing push authorization (2026-09-07)
 - [Schema](../schema.md) — On-demand page structure, attribution, provenance, catalog, and maintenance reference (2026-09-07)
 - [Raw README](../raw/README.md) — New-source registration, immutable originals, and targeted lookup guidance (2026-09-07)
-- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-07)
+- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-08)
 
 ## Page Creation Gates
 

@@ -1,9 +1,10 @@
 ---
 status: hypothesis
 attribution: llm-synthesis
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
+  - SRC-2026-09-08-bibliography-survey
 ---
 
 # Tender Subject, Systematic Form
@@ -41,6 +42,17 @@ and generated six speculative future subject-form pairings as an illustrative te
 - `HOPE × FORECASTING`
 
 Both the rule and the pairings are `llm-proposed` and unconfirmed by the user. The source itself frames the pairings as explicitly non-committal — noted as not needing to all be built and not needing to be decided now, offered only as a test of whether the pattern holds. They are not candidate systems.
+
+## Proposed supporting literature
+
+Attribution: `llm-proposed`. A 2026-09-08 bibliography survey offered the first citable theory proposed for this hypothesis. Four items were named as bearing on it directly, each for a different part of the pattern:
+
+- Wendy Nelson Espeland and Mitchell L. Stevens, "Commensuration as a Social Process" (1998) — would support the claim that a subject is put through a form that measures or compares it.
+- Carrie Lambert-Beatty, "Make-Believe: Parafiction and Plausibility" (2009) — would support the claim that the form is executed straight and accepted as real rather than announced as metaphor.
+- Dylan Hadfield-Menell and others, "Inverse Reward Design" (2017) — would support the claim that a designed institutional measure is not the same thing as what it was meant to capture.
+- David Gale and Lloyd Shapley, "College Admissions and the Stability of Marriage" (1962) — would support a question about what a system that runs correctly actually guarantees, as distinct from what it was hoped to deliver.
+
+These four were proposed by an assistant, not by the user; the user did not engage with them in the source conversation, and citing them here does not raise this page's status above `hypothesis`. None of the four has been read in full or independently verified as part of this ingestion. See [[bibliography-survey]] for the full survey and its verification limits.
 
 ## Related
 

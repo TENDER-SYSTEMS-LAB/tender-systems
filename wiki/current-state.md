@@ -1,8 +1,11 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
+  - SRC-2026-09-08-bibliography-survey
+  - SRC-2026-09-08-human-social-engineering-models
+  - SRC-2026-09-08-youtube-content-plan
   - SRC-2026-09-07-chatgpt-artist-name-survey
   - SRC-2026-09-07-claude-artist-name-survey
   - SRC-2026-09-07-deepseek-artist-name-survey
@@ -47,6 +50,7 @@ Registered sources include institutional conversations, a recommendation excerpt
 - The dual sense of `tender` — tenderness and transaction — is part of the identity at the user's instruction; the specific slogans built on it are not adopted ([[tender-duality]]).
 - The handle grammar for public accounts: a bare institutional handle, per-system handles appending the system code, bare display names, codes in the bio. Adopted through use rather than by an explicit statement ([[public-surfaces]]).
 - Public accounts are managed from the operator's existing personal application session rather than through separated institutional credentials. This is the user's own proposal, adopted after an earlier stricter recommendation was set aside ([[public-surfaces]]).
+- A reference survey of artworks and papers, and an annotated bibliography document derived from it, are held as background. Nothing in either was selected or endorsed, and the institution-level items are recorded without establishing a reading list ([[bibliography-survey]]).
 - No institution-level page exists under `wiki/systems/`, and `{project-slug}-web` implementation repositories do not exist for OTHER GOODS or LONGING in the existing record; THE RESERVE implementation-repository status is not confirmed here.
 
 ## Background records
@@ -64,6 +68,8 @@ Registered sources include institutional conversations, a recommendation excerpt
 - Where the boundary falls between internal working language and public language ([[Q-002-internal-versus-public-language]]).
 - Whether the structural method shared by the current systems is an intentional institutional rule. It was named by an assistant and not confirmed ([[tender-subject-systematic-form]]).
 - Whether to adopt the proposed web-first release structure: social discovery, a minimal institutional index, direct system experiences, and a separate archive. The new excerpt contains recommendations without user acceptance; neither a release sequence nor a public interpretive archive is approved ([[public-surfaces]], [[Q-002-internal-versus-public-language]]).
+- Whether long-form commentary spoken by the operator in the first person falls under the public-language rule, and under whose identity such a channel would run. A video plan was discussed on 2026-09-08; no channel was created and nothing was adopted ([[Q-003-operator-voice-on-public-channels]], [[public-surfaces]]).
+- Whether the two proposed reading disciplines for shared research — distinguishing kinds of model, and separating a model's original assumptions from what the work changes — are adopted. Both are unconfirmed proposals ([[bibliography-survey]]).
 - Which public platform comes next. The proposed sequence is unconfirmed ([[public-surfaces]]).
 - What a system's `archived` status will require in practice, since no system has reached it.
 

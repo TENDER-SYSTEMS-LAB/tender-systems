@@ -117,3 +117,25 @@ Renamed the new conversation to `2026-09-07-academic-guidance-and-leonardo-publi
 ## [2026-09-07] ingest | Seven LLM artist-name surveys
 
 Renamed the seven new `{model}-auther-name.md` files to `2026-09-07-{model}-artist-name-survey.md` at the user's request, preserved their bytes, and registered their source IDs and Git blob hashes. Created [[artist-name-survey]] to compare each answer's first choice, alternatives, interpretations, and verification limits; synchronized [[current-state]] and [[index]]. All candidates remain llm-proposed, and reported prior rejections and external checks remain secondary accounts. No name, institutional identity change, or artistic philosophy was adopted. Existing uncommitted academic-guidance ingestion and all earlier log content were preserved.
+
+## [2026-09-08] ingest | Bibliography survey and channel proposal registered
+
+Registered `SRC-2026-09-08-bibliography-survey` (hash `045c622f8b0b442da5d3f71b9297805001157a5b`) and `SRC-2026-09-08-youtube-content-plan` (hash `a1e52433f29622e467e8abd0f7a1a7b1ab339f6b`). Both arrived with exporter-generated names, were renamed to the required form before registration with contents unaltered, and are Korean-language exports retained in their original language.
+
+The reference survey was promoted to [[bibliography-survey]] as a background note holding only its institution-level items; the per-system references stay canonical in each Lab repository and were not copied. Four of its texts were added to [[tender-subject-systematic-form]] as proposed supporting literature, which remains `hypothesis`.
+
+The channel conversation opened [[Q-003-operator-voice-on-public-channels]] and added an unresolved paragraph to [[public-surfaces]]. Nothing about a channel was adopted.
+
+Attribution care: in the reference survey the user's four statements are all requests or questions and no item was selected, so the whole survey is recorded as unadopted; its claim to have read the organization's repository wikis is unverifiable from the export. In the channel conversation only four topics, two derived titles, and a weekly cadence are the user's own, and the conversation ends on an assistant document with no reply.
+
+Identity care: the channel source contains the operator's given name and a proposed channel name built on it. The original is preserved unchanged as evidence, and neither name is recorded in any Wiki page, in keeping with the institutional identity rules.
+
+## [2026-09-08] ingest | Annotated bibliography document registered
+
+Registered `SRC-2026-09-08-human-social-engineering-models` (hash `2130048673fee0c13b9e4877f0b641535cacc364`), a Korean-language annotated bibliography of twenty social-science and engineering papers generated during the session already registered as `SRC-2026-09-08-bibliography-survey`. It was supplied after that ingestion, renamed from its generator-assigned filename with bytes preserved, and placed under `raw/documents/` because it is an assistant-produced deliverable rather than a conversation export.
+
+Its twenty entries restate the second turn of that conversation and add per-item verification scope, DOIs, and BibTeX keys, so the material is largely derived rather than new. No separate page was created. [[bibliography-survey]] was extended instead, recording the document, the two passages in it that would apply across systems if adopted — a discipline for distinguishing theoretical, data-based, and algorithmic models and what each establishes, and a discipline for keeping a model's original assumptions separate from what the work changes and from real observation — and the correction that one of the two generated files is now registered.
+
+Nothing was adopted. Both disciplines and every annotation remain `llm-proposed`, and the document states its own status as a research reference proposal rather than a design decision, an implementation, or an empirical validation. Its proposed separation structure for one system's information and pricing layers is scoped to that system and was not copied; each Lab repository stays canonical for its own bibliography.
+
+The document lists the specific repository files it claims to have read, which narrows the earlier unverifiable claim of repository access recorded for `SRC-2026-09-08-bibliography-survey` without closing it; those files were not fetched during ingestion. Synchronized [[index]] and [[current-state]]. Earlier log content was preserved unchanged.

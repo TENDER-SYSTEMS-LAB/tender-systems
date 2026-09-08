@@ -1,10 +1,11 @@
 ---
 status: working
 attribution: jointly-developed
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-05-social-account-strategy
+  - SRC-2026-09-08-youtube-content-plan
 ---
 
 # Public Surfaces
@@ -76,6 +77,12 @@ Which platform comes next is undecided. The assistant proposed a sequence — Th
 
 Platform facts cited by the assistant in that exchange — a Threads monthly-active-user figure and X's username length limit — came from assistant web searches conducted on 2026-09-05 and need re-verification before use, since they were not independently checked against a registered source.
 
+A fourth public surface has since been proposed: a video channel voiced by the operator in the first person, distinct from the three entity accounts recorded above. No channel was created, and no name was adopted; the plan's episode list, ordering, video structure, and proposed name are `llm-proposed` and received no user reply. The user's own contribution is four seed topics, two derived topic titles, and a preference for a weekly cadence:
+
+> "한주에 하나씩 영상을 공개하면 좋을 것 같네."
+
+Whether such a surface is permitted, and under whose identity it would run, is open — see [[Q-003-operator-voice-on-public-channels]].
+
 ## Proposed release and discovery structure
 
 Status: `hypothesis`; attribution: `llm-proposed`.
@@ -99,5 +106,7 @@ The excerpt has no user reply and is the sole source for this release structure.
 - [[SRC-2026-09-05-how-to-show]] — [raw/conversations/2026-09-05-how-to-show.md](../../raw/conversations/2026-09-05-how-to-show.md)
 
 - [[SRC-2026-09-05-social-account-strategy]] — [raw/conversations/2026-09-05-social-account-strategy.md](../../raw/conversations/2026-09-05-social-account-strategy.md)
+
+- [[SRC-2026-09-08-youtube-content-plan]] — [raw/conversations/2026-09-08-youtube-content-plan.md](../../raw/conversations/2026-09-08-youtube-content-plan.md)
 
 The assistant used live web search during this conversation and cited external help-centre and newsroom pages (Instagram/Meta Help Centre, X Help, a Meta newsroom post) that are not registered as sources in this repository; treat facts drawn from them as unverified until a source is registered. The assistant's account of LONGING's own Wiki, consulted while drafting bio copy, is a secondary citation here — the primary material lives in longing-lab, which remains canonical.
