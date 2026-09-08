@@ -72,7 +72,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[DEC-001-repository-conventions]] — Repository roles, naming, and when each repository is created · `confirmed` (2026-09-04)
 - [[DEC-002-decision-placement]] — Which repository a given decision belongs in · `confirmed` (2026-09-04)
-- [[DEC-003-public-identity]] — The identity used on public-facing source control, extended with public-surface rules · `confirmed` (2026-09-07)
+- [[DEC-003-public-identity]] — The identity used on public-facing source control, extended with public-surface rules and a closed exception for registered originals · `confirmed` (2026-09-08)
 - [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-07)
 - [[DEC-005-public-facing-language]] — Public copy states what a system does and never explains or labels the work · `confirmed` (2026-09-07)
 

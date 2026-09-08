@@ -139,3 +139,11 @@ Its twenty entries restate the second turn of that conversation and add per-item
 Nothing was adopted. Both disciplines and every annotation remain `llm-proposed`, and the document states its own status as a research reference proposal rather than a design decision, an implementation, or an empirical validation. Its proposed separation structure for one system's information and pricing layers is scoped to that system and was not copied; each Lab repository stays canonical for its own bibliography.
 
 The document lists the specific repository files it claims to have read, which narrows the earlier unverifiable claim of repository access recorded for `SRC-2026-09-08-bibliography-survey` without closing it; those files were not fetched during ingestion. Synchronized [[index]] and [[current-state]]. Earlier log content was preserved unchanged.
+
+## [2026-09-08] decision | Personal name in registered originals left as published
+
+The user decided that the operator's personal name appearing inside some registered originals under `raw/` is not to be remediated. The affected originals stay published unchanged, and the matter is closed rather than tracked as an open issue.
+
+Recorded as an extension to [[DEC-003-public-identity]] so that the exception is visible where the rule lives. The rule itself did not change: maintained documentation, repository metadata, and commit identity continue to carry no personal attribution. Raw originals are evidence and are never edited, so the exception belongs to the evidence layer.
+
+No original was altered, no history was rewritten, and no masked replacement was registered. Synchronized the affected catalog entry in [[index]].

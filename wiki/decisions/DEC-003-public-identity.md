@@ -1,7 +1,7 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
   - SRC-2026-09-04-tender-systems-identity-review
 ---
@@ -70,6 +70,14 @@ A registered source — an operational instruction the user pasted for GitHub Or
 These were presented in the source as already-established policy rather than decided in that conversation.
 
 - See [[DEC-004-institutional-voice]] and [[DEC-005-public-facing-language]].
+
+## Extension (2026-09-08) — registered originals
+
+Some registered originals under `raw/` contain the operator's personal name, because the conversations they preserve mention it. On 2026-09-08 the user decided that this is not to be remediated: the affected originals stay published unchanged and the matter is closed.
+
+The rule itself is unchanged and applies to everything the institution writes. Maintained documentation — Wiki pages, the README, the registry, repository metadata, commit identity — carries no personal attribution. Raw originals are evidence and are never edited, so the exception is a property of the evidence layer, not a relaxation of the rule.
+
+Do not raise this again as an open issue, and do not rewrite history, redact a registered original, or register a masked replacement on account of it.
 
 ## Sources
 
