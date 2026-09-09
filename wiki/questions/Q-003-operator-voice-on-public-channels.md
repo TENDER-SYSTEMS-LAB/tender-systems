@@ -1,15 +1,26 @@
 ---
-status: unknown
+status: confirmed
 attribution: jointly-developed
 updated: 2026-09-09
 sources:
+  - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-youtube-content-plan
 ---
 
 # Q-003 — Operator Voice on Public Channels
 
-## Question
+## Resolution (2026-09-09)
+
+Status: `confirmed`; attribution: `user-confirmed`.
+
+The user sets the operator channel apart from institutional and system speech. It will not identify the speaker as the maker of TENDER SYSTEMS; it refers to making work only indirectly and approximately. Most process and motivation may be discussed in the maker's own voice without substantially disclosing the work's contents. The institution's public-language and identity principles will not be displayed or explained on the channel. The user approved the assistant's interpretation and requested ingestion.
+
+The canonical scope extensions are in [[DEC-003-public-identity]] and [[DEC-005-public-facing-language]]. This resolves the core voice and disclosure question; it does not adopt a channel name, establish a live account or its ownership, guarantee anonymity, or require preventing audience inference. Nor does it approve all background material for publication or settle the wider archive question in [[Q-002-internal-versus-public-language]].
+
+## Original question and history
+
+The sections below preserve the question as it stood before this resolution; their statements of uncertainty describe the earlier sources, not the current voice and disclosure decision.
 
 Whether long-form commentary spoken by the operator in the first person, explaining how and why the work was made, falls under the public-language rule, and under whose identity such a channel would run.
 
@@ -60,7 +71,7 @@ The separate visual-identity export dated 2026-09-08 records a user-originated p
 
 Referring to "my channel" and requesting a mockup do not establish a live account, its ownership, final name adoption, or approval of the resulting asset. Neither exchange explicitly resolves the public-language or identity boundary. The question therefore remains `unknown`; visual development is not an exception to the existing decisions.
 
-## Open sub-questions
+## Original sub-questions
 
 - Whether the public-language rule in [[DEC-005-public-facing-language]] covers operator-voiced video at all.
 - Whether a personally voiced surface may exist alongside the institutional and per-system surfaces, and under whose account it would run.
@@ -76,6 +87,8 @@ Referring to "my channel" and requesting a mockup do not establish a live accoun
 - [[creative-origin-and-motivation]]
 
 ## Sources
+
+- [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../../raw/conversations/2026-09-09-operator-channel-boundary.md)
 
 - [[SRC-2026-09-08-youtube-visual-identity]] — [raw/conversations/2026-09-08-youtube-visual-identity.md](../../raw/conversations/2026-09-08-youtube-visual-identity.md)
 

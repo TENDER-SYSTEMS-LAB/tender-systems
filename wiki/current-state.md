@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-09
 sources:
+  - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-bibliography-survey
   - SRC-2026-09-08-human-social-engineering-models
@@ -37,7 +38,8 @@ Registered sources include institutional conversations, a recommendation excerpt
 - Decision placement: which repository records a given decision, based on whether it survives a rebuild and whether it applies beyond a single system ([[DEC-002-decision-placement]]).
 - Public identity on source control is `TENDER SYSTEMS`, configured per repository rather than globally. Extended on 2026-09-05 with public-surface rules: private organization membership, empty repository topics, a minimal organization profile, and the `ACTIVE SYSTEMS` heading ([[DEC-003-public-identity]]).
 - TENDER SYSTEMS presents as an organization rather than as a single author, reads as one brand underneath that surface, and derives its identity from the systems already built ([[DEC-004-institutional-voice]]).
-- Public copy states what a system does and does not explain, interpret, or label the work; it does not call the work an art project or declare the institution fictional ([[DEC-005-public-facing-language]]).
+- Institutional and system public copy states what a system does and does not explain, interpret, or label the work; it does not call the work an art project or declare the institution fictional ([[DEC-005-public-facing-language]]).
+- The operator channel has a distinct voice and disclosure boundary: it does not identify its speaker as the maker of TENDER SYSTEMS, refers to work only indirectly and approximately, and may discuss most process and motivation without substantially disclosing the work's contents. It does not display or explain the institutional language and identity principles. This concerns voluntary disclosure, not absolute anonymity or preventing audience inference; institutional and system rules remain in place ([[DEC-003-public-identity]], [[DEC-005-public-facing-language]], [[Q-003-operator-voice-on-public-channels]]).
 - Three active systems, OG-001 OTHER GOODS, LN-001 LONGING, and RS-001 THE RESERVE, each canonical in its own Lab repository ([[registry]]).
 - The shared three-layer Wiki architecture is instantiated in other-goods-lab, longing-lab, and this repository as of 2026-09-05.
 - Instagram and YouTube accounts exist for the institution, OTHER GOODS, and LONGING, one account per entity, reported created by the user on 2026-09-05 ([[public-surfaces]]).
@@ -71,7 +73,7 @@ Registered sources include institutional conversations, a recommendation excerpt
 - Where the boundary falls between internal working language and public language ([[Q-002-internal-versus-public-language]]).
 - Whether the structural method shared by the current systems is an intentional institutional rule. It was named by an assistant and not confirmed ([[tender-subject-systematic-form]]).
 - Whether to adopt the proposed web-first release structure: social discovery, a minimal institutional index, direct system experiences, and a separate archive. The new excerpt contains recommendations without user acceptance; neither a release sequence nor a public interpretive archive is approved ([[public-surfaces]], [[Q-002-internal-versus-public-language]]).
-- Whether long-form commentary spoken by the operator in the first person falls under the public-language rule, and under whose identity such a channel would run. A video plan and visual direction were discussed on 2026-09-08, including a requested logo mockup; live channel creation, final asset adoption, and an exception to institutional rules are not established ([[Q-003-operator-voice-on-public-channels]], [[public-surfaces]]).
+- The operator channel's final name, live account creation and ownership, final assets, and adoption of the compiled episode schedule remain unconfirmed. The voice and disclosure boundary is now confirmed, but does not establish these production details or blanket permission to publish all background records ([[Q-003-operator-voice-on-public-channels]], [[public-surfaces]]).
 - Whether the two proposed reading disciplines for shared research — distinguishing kinds of model, and separating a model's original assumptions from what the work changes — are adopted. Both are unconfirmed proposals ([[bibliography-survey]]).
 - Which public platform comes next. The proposed sequence is unconfirmed ([[public-surfaces]]).
 - What a system's `archived` status will require in practice, since no system has reached it.
@@ -81,6 +83,8 @@ Registered sources include institutional conversations, a recommendation excerpt
 Several important conclusions still depend on a single source, even where a page now cites multiple sources. The release structure and experience/archive split depend solely on the unconfirmed how-to-show excerpt. Two of the earlier sources are secondary in part: the identity conversation reports earlier deliberation that is not registered here and carries operational rules the user pasted from work done elsewhere, and the social-account conversation relies on live web searches and on an assistant's reading of another repository's Wiki. Watch these dependencies as further material arrives.
 
 ## Sources
+
+- [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../raw/conversations/2026-09-09-operator-channel-boundary.md)
 
 - [[SRC-2026-09-08-youtube-visual-identity]] — [raw/conversations/2026-09-08-youtube-visual-identity.md](../raw/conversations/2026-09-08-youtube-visual-identity.md)
 

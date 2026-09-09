@@ -3,6 +3,7 @@ status: working
 attribution: jointly-developed
 updated: 2026-09-09
 sources:
+  - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-05-how-to-show
   - SRC-2026-09-05-social-account-strategy
@@ -82,7 +83,15 @@ A fourth public surface has since been proposed: a video channel voiced by the o
 
 > "한주에 하나씩 영상을 공개하면 좋을 것 같네."
 
-Whether such a surface is permitted, and under whose identity it would run, is open — see [[Q-003-operator-voice-on-public-channels]].
+The operator-channel voice and disclosure boundary was subsequently confirmed on 2026-09-09, as recorded below and in [[Q-003-operator-voice-on-public-channels]]. Its final name and live account ownership remain unconfirmed.
+
+## Evolution (2026-09-09) — operator-channel relationship
+
+Status: `confirmed`; attribution: `user-confirmed`.
+
+The channel speaks as a person making work, not as TENDER SYSTEMS or an official behind-the-scenes surface. It will not state that its speaker makes TENDER SYSTEMS and will refer to the work only indirectly and approximately. Most making processes and motivations may be discussed without substantially disclosing the work's contents. The institutional public-language and identity principles will not be displayed or explained on the channel.
+
+This resolves the earlier voice and disclosure uncertainty without changing the institution's or systems' own operating language. It concerns what the channel voluntarily reveals, not absolute anonymity or preventing audience inference. Canonical scope extensions are in [[DEC-003-public-identity]] and [[DEC-005-public-facing-language]]. Channel creation, name, ownership, final assets, and the earlier compiled episode schedule are not established by this decision.
 
 ## Operator-channel visual direction
 
@@ -104,7 +113,7 @@ The assistant's working specification is preserved for that mockup, not as an in
 
 The exact Mincho font is unnamed. Dimensions, weights, layout settings, separate CC captions, and bright/dark-room sample checks are `llm-proposed` details without individual confirmation. The source assistant's claims about YouTube theme behavior, contrast, and font licensing were not independently verified during ingestion and are not promoted as platform or accessibility guarantees.
 
-The export ends with a remote generated-image reference. Its text records generation, but the image binary is not archived here and its actual appearance was not verified. Final asset approval, channel creation, account ownership, and the relationship to institutional public-language and identity rules remain unresolved in [[Q-003-operator-voice-on-public-channels]]. This source advances visual development without establishing a launch or changing those rules.
+The export ends with a remote generated-image reference. Its text records generation, but the image binary is not archived here and its actual appearance was not verified. Final asset approval, channel creation, and account ownership remain unconfirmed. That source advanced visual development without establishing a launch or changing institutional rules; the subsequent 2026-09-09 decision above resolves the operator-channel voice and disclosure boundary.
 
 ## Proposed release and discovery structure
 
@@ -125,6 +134,8 @@ The excerpt has no user reply and is the sole source for this release structure.
 - [[registry]]
 
 ## Sources
+
+- [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../../raw/conversations/2026-09-09-operator-channel-boundary.md)
 
 - [[SRC-2026-09-08-youtube-visual-identity]] — [raw/conversations/2026-09-08-youtube-visual-identity.md](../../raw/conversations/2026-09-08-youtube-visual-identity.md)
 

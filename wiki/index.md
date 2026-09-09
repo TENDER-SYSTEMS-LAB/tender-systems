@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-09
 sources:
+  - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-bibliography-survey
   - SRC-2026-09-08-human-social-engineering-models
@@ -57,7 +58,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-07)
 - [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, unconfirmed, with proposed supporting literature · `hypothesis` (2026-09-08)
-- [[public-surfaces]] — Accounts, handles, voice, management, an unconfirmed release and discovery structure, and an operator-channel working visual direction · `working` (2026-09-09)
+- [[public-surfaces]] — Accounts, handles, an unconfirmed release structure, and the operator channel's confirmed disclosure boundary and working visual direction · `working` (2026-09-09)
 
 ## Notes
 
@@ -73,15 +74,18 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[DEC-001-repository-conventions]] — Repository roles, naming, and when each repository is created · `confirmed` (2026-09-04)
 - [[DEC-002-decision-placement]] — Which repository a given decision belongs in · `confirmed` (2026-09-04)
-- [[DEC-003-public-identity]] — The identity used on public-facing source control, extended with public-surface rules and a closed exception for registered originals · `confirmed` (2026-09-08)
+- [[DEC-003-public-identity]] — Institutional public identity, the closed registered-originals exception, and the operator channel's distinct disclosure boundary · `confirmed` (2026-09-09)
 - [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-07)
-- [[DEC-005-public-facing-language]] — Public copy states what a system does and never explains or labels the work · `confirmed` (2026-09-07)
+- [[DEC-005-public-facing-language]] — Institutional and system copy states operations; the operator channel may discuss process and motivation without substantial work disclosure · `confirmed` (2026-09-09)
 
 ## Open Questions
 
 - [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-07)
 - [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-07)
-- [[Q-003-operator-voice-on-public-channels]] — Whether operator-voiced explanatory video falls under the public-language rule, and under whose identity such a channel would run · `unknown` (2026-09-09)
+
+## Resolved Questions
+
+- [[Q-003-operator-voice-on-public-channels]] — Resolved operator-channel voice and disclosure boundary, with earlier uncertainty preserved and account details still unconfirmed · `confirmed` (2026-09-09)
 
 ## Activity
 
@@ -93,7 +97,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [AGENTS](../AGENTS.md) — Task-sized reading, scoped verification, source preservation, institutional Git identity, and standing push authorization (2026-09-07)
 - [Schema](../schema.md) — On-demand page structure, attribution, provenance, catalog, and maintenance reference (2026-09-07)
 - [Raw README](../raw/README.md) — New-source registration, immutable originals, and targeted lookup guidance (2026-09-07)
-- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-08)
+- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-09)
 
 ## Page Creation Gates
 

@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-07
+updated: 2026-09-09
 sources:
+  - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-04-tender-systems-identity-review
   - SRC-2026-09-05-social-account-strategy
 ---
@@ -15,7 +16,7 @@ accepted (2026-09-05)
 
 ## Decision
 
-Public copy states what a system does; it never explains, interprets, or labels the work.
+Institutional and system public copy states what a system does; it never explains, interprets, or labels the work. The operator channel has a distinct scope confirmed in the evolution below.
 
 - Public text does not describe TENDER SYSTEMS or its systems as an "art project," and does not declare the institution to be a "fictional institution." The user supplied these as established policy inside a pasted instruction block:
 
@@ -43,6 +44,14 @@ The work is encountered through the surface it presents; copy that explains the 
 - The per-system public copy strings themselves are maintained in each system's Lab repository, not here.
 - Internal working vocabulary may describe the institution more directly than public copy does — that boundary is open; see [[Q-002-internal-versus-public-language]].
 
+## Evolution (2026-09-09) — process without substantial work disclosure
+
+The user confirms that the operator channel may discuss most making processes and motivations in a personal voice, provided it does not substantially disclose the work's contents. References to the work remain indirect and approximate. The channel does not announce that its speaker makes TENDER SYSTEMS, adopt the institution's operating voice, or display or explain its public-language and identity principles.
+
+This resolves the operator-channel scope of this rule rather than repealing the rule for institutional and system surfaces. It permits process and motivation discussion, not detailed decoding of the work or instructions for interpreting it. It is not blanket approval to republish every background record. The assistant's topic examples are illustrations, not an adopted episode sequence. The wider internal/public boundary and proposed interpretive archive in [[Q-002-internal-versus-public-language]] remain open.
+
+See [[DEC-003-public-identity]] for disclosure limits and [[Q-003-operator-voice-on-public-channels]] for the earlier question and its resolution.
+
 ## Related
 
 - [[DEC-003-public-identity]]
@@ -51,6 +60,8 @@ The work is encountered through the surface it presents; copy that explains the 
 - [[Q-002-internal-versus-public-language]]
 
 ## Sources
+
+- [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../../raw/conversations/2026-09-09-operator-channel-boundary.md)
 
 - [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)
 - [[SRC-2026-09-05-social-account-strategy]] — [raw/conversations/2026-09-05-social-account-strategy.md](../../raw/conversations/2026-09-05-social-account-strategy.md)

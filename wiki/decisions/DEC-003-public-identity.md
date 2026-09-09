@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-08
+updated: 2026-09-09
 sources:
+  - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-04-tender-systems-identity-review
 ---
 
@@ -79,7 +80,15 @@ The rule itself is unchanged and applies to everything the institution writes. M
 
 Do not raise this again as an open issue, and do not rewrite history, redact a registered original, or register a masked replacement on account of it.
 
+## Evolution (2026-09-09) — operator-channel boundary
+
+The earlier broad public-surface wording left operator-voiced commentary unresolved. The user now confirms a distinct communicative surface: the operator channel does not identify its speaker as the maker of TENDER SYSTEMS or present itself as the institution's official behind-the-scenes channel. It may refer indirectly and approximately to making work, in the maker's own voice, without displaying or explaining the institutional identity principles.
+
+This defines the channel's voluntary disclosure, not a requirement for absolute anonymity or for preventing an audience from inferring a connection. It does not establish a channel name, live account, or account ownership. Institutional and system surfaces retain their existing identity rules; maintained institutional records and Git attribution are unchanged. See [[DEC-005-public-facing-language]] and the resolution in [[Q-003-operator-voice-on-public-channels]].
+
 ## Sources
+
+- [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../../raw/conversations/2026-09-09-operator-channel-boundary.md)
 
 - [[SRC-2026-09-04-tender-systems-identity-review]] — [raw/conversations/2026-09-04-tender-systems-identity-review.md](../../raw/conversations/2026-09-04-tender-systems-identity-review.md)
 
