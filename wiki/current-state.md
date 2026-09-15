@@ -3,6 +3,7 @@ status: working
 attribution: llm-synthesis
 updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-concluded-section-on-org-profile
   - SRC-2026-09-15-longing-research-rename
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
   - SRC-2026-09-14-typographic-voice
@@ -40,7 +41,7 @@ Registered sources include institutional conversations, a recommendation excerpt
 
 - Repository conventions for naming and creating `tender-systems`, `{project-slug}-lab`, and `{project-slug}-web` repositories ([[DEC-001-repository-conventions]]).
 - Decision placement: which repository records a given decision, based on whether it survives a rebuild and whether it applies beyond a single system ([[DEC-002-decision-placement]]).
-- Public identity on source control is `TENDER SYSTEMS`, configured per repository rather than globally. Extended on 2026-09-05 with public-surface rules: private organization membership, empty repository topics, a minimal organization profile, and the `ACTIVE SYSTEMS` heading ([[DEC-003-public-identity]]).
+- Public identity on source control is `TENDER SYSTEMS`, configured per repository rather than globally. Extended on 2026-09-05 with public-surface rules: private organization membership, empty repository topics, a minimal organization profile, and the `ACTIVE SYSTEMS` heading. Amended on 2026-09-15 so the profile also carries a `CONCLUDED` heading whenever a system is archived; RS-001 is listed there ([[DEC-003-public-identity]]).
 - TENDER SYSTEMS presents as an organization rather than as a single author, reads as one brand underneath that surface, and derives its identity from the systems already built ([[DEC-004-institutional-voice]]).
 - Institutional and system public copy states what a system does and does not explain, interpret, or label the work; it does not call the work an art project or declare the institution fictional ([[DEC-005-public-facing-language]]).
 - The operator channel has a distinct voice and disclosure boundary: it does not identify its speaker as the maker of TENDER SYSTEMS, refers to work only indirectly and approximately, and may discuss most process and motivation without substantially disclosing the work's contents. It does not display or explain the institutional language and identity principles. This concerns voluntary disclosure, not absolute anonymity or preventing audience inference; institutional and system rules remain in place ([[DEC-003-public-identity]], [[DEC-005-public-facing-language]], [[Q-003-operator-voice-on-public-channels]]).

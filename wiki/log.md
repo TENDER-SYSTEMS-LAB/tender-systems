@@ -201,3 +201,17 @@ Made the identifier rule explicit where it was previously only implied: a rename
 Recorded two things that did **not** follow the rename. The Lab repository is still `longing-lab`, where [[DEC-001-repository-conventions]] would give `longing-research-lab`; renaming a published repository is outward-facing and breaks existing links, including the cross-repository URLs now written into THE RESERVE's conclusion decision. The Instagram and YouTube accounts are still registered under `LONGING`, and [[public-surfaces]] now carries that note beside the created-account record — whose handles were never verified in the first place. Neither account nor repository was touched.
 
 No institutional decision, principle, or public-language rule changed, and the concurrent uncommitted typography and design-principles work in this repository was left untouched.
+
+## [2026-09-15] decision | The organization profile lists concluded systems
+
+Registered [[SRC-2026-09-15-concluded-section-on-org-profile]] (hash `6ab11fbca61e0a47d35200e924f1d9eed46ebf6c`), a separate source, since the day's earlier originals are registered and are never edited.
+
+Amended [[DEC-003-public-identity]] by evolution rather than rewrite. The 2026-09-05 rule — the organization profile stays minimal: name, one line, the active systems, nothing further — admitted only one response to an archived system, which was to drop it from the profile. RS-001 was dropped on that reading earlier today. The user amended the rule instead, and the profile now carries a second heading, `CONCLUDED`, whenever a system is archived.
+
+Kept the amendment narrow and wrote its limits into the decision: a concluded system is listed exactly as an active one — identifier, name, link to its Lab — with no description, date, or explanation on that surface; the heading vocabulary follows the registry's status values, where `CONCLUDED` corresponds to `archived`; and the registry stays canonical for status, because the profile lists rather than explains. The original 2026-09-05 bullet is left in place with a pointer to the amendment, so the superseded reading stays visible.
+
+Every other public-surface rule is untouched, including the unified identity, private organization membership, empty topics, and the commit identity and trailer rules. Noted that this repository's own README already carried a `CONCLUDED` heading, so the two surfaces are now consistent — an outcome, not a new rule.
+
+The profile itself lives in the organization's `.github` repository and was updated there in the same task; that repository holds no Wiki and is not a source-registering surface.
+
+**Correction on record.** The four commits pushed earlier today, one in each of `longing-lab`, `the-reserve-lab`, `tender-systems`, and `.github`, carry a `Co-Authored-By` tool-attribution trailer. The *Consequences* section of [[DEC-003-public-identity]] forbids exactly that. The commits are already published, and rewriting history or force-pushing to change attribution is prohibited, so they are left as they are and recorded here instead. No later commit carries the trailer.

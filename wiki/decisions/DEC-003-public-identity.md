@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-09
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-concluded-section-on-org-profile
   - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-04-tender-systems-identity-review
 ---
@@ -60,7 +61,7 @@ A registered source — an operational instruction the user pasted for GitHub Or
 
 - Repository Topics are empty for the current repositories; technical topics may be considered later only for a genuine public software repository, and only for that repository.
 
-- The organization profile README stays minimal: name, one line, the active systems, nothing further.
+- The organization profile README stays minimal: name, one line, the active systems, nothing further. **Amended 2026-09-15** — see the evolution note below, which admits a second heading for concluded systems.
 
 - The public listing uses the heading `ACTIVE SYSTEMS` rather than a projects or works heading.
 
@@ -86,7 +87,34 @@ The earlier broad public-surface wording left operator-voiced commentary unresol
 
 This defines the channel's voluntary disclosure, not a requirement for absolute anonymity or for preventing an audience from inferring a connection. It does not establish a channel name, live account, or account ownership. Institutional and system surfaces retain their existing identity rules; maintained institutional records and Git attribution are unchanged. See [[DEC-005-public-facing-language]] and the resolution in [[Q-003-operator-voice-on-public-channels]].
 
+## Evolution (2026-09-15) — the profile lists concluded systems too
+
+**The organization profile README carries a second heading, `CONCLUDED`, listing systems that have been archived.** The user directed the change in one line:
+
+> DEC-003 고쳐서 CONCLUDED 섹션 추가해줘.
+
+### What prompted it
+
+RS-001 THE RESERVE was archived earlier the same day. The profile had been listing it under `ACTIVE SYSTEMS`, so the archive required a decision, and the 2026-09-05 rule admitted only one: remove it. It was removed. The user then amended the rule rather than accept the removal.
+
+### What the rule now is
+
+The profile is still minimal, and the amendment is narrow:
+
+- Name, one line, `ACTIVE SYSTEMS`, and — only when at least one system is archived — `CONCLUDED`. Nothing further.
+- A concluded system is listed exactly as an active one is: identifier, name, link to its Lab. No description, no date, no explanation on this surface.
+- The heading vocabulary follows the registry's status values, and `CONCLUDED` corresponds to `archived`. The registry remains canonical for a system's status; the profile lists, it does not explain.
+- The 2026-09-05 preference for `ACTIVE SYSTEMS` over a projects or works heading is unchanged and now governs the second heading too.
+
+### What does not change
+
+Every other public-surface rule stands: the unified `TENDER SYSTEMS` identity, private organization membership, empty repository topics, no personal attribution in repository metadata, and the commit-identity and trailer rules in *Consequences* above. This amendment concerns what the profile lists, nothing else.
+
+The institutional README in this repository already carried a `CONCLUDED` heading before this amendment; the two surfaces are now consistent, which was not previously required and is not made a rule here.
+
 ## Sources
+
+- [[SRC-2026-09-15-concluded-section-on-org-profile]] — [raw/conversations/2026-09-15-concluded-section-on-org-profile.md](../../raw/conversations/2026-09-15-concluded-section-on-org-profile.md)
 
 - [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../../raw/conversations/2026-09-09-operator-channel-boundary.md)
 

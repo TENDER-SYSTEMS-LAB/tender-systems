@@ -77,7 +77,7 @@ Before creating a page, check this catalog to see whether an existing page can b
 
 - [[DEC-001-repository-conventions]] — Repository roles, naming, and when each repository is created · `confirmed` (2026-09-04)
 - [[DEC-002-decision-placement]] — Which repository a given decision belongs in · `confirmed` (2026-09-04)
-- [[DEC-003-public-identity]] — Institutional public identity, the closed registered-originals exception, and the operator channel's distinct disclosure boundary · `confirmed` (2026-09-09)
+- [[DEC-003-public-identity]] — Institutional public identity, the closed registered-originals exception, the operator channel's distinct disclosure boundary, and the profile's ACTIVE SYSTEMS and CONCLUDED headings · `confirmed` (2026-09-15)
 - [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-07)
 - [[DEC-005-public-facing-language]] — Institutional and system copy states operations; the operator channel may discuss process and motivation without substantial work disclosure · `confirmed` (2026-09-09)
 - [[DEC-006-typographic-voice]] — Typeface identifies the speaker: Inconsolata for the system, Departure Mono for terminals, Source Serif for human writing · `confirmed` (2026-09-15)
