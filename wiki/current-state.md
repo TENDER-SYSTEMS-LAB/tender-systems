@@ -1,8 +1,12 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-09
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-15-longing-research-rename
+  - SRC-2026-09-15-reserve-absorption-and-trust-instruments
+  - SRC-2026-09-14-typographic-voice
+  - SRC-2026-09-14-design-principles-draft
   - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-bibliography-survey
@@ -40,7 +44,10 @@ Registered sources include institutional conversations, a recommendation excerpt
 - TENDER SYSTEMS presents as an organization rather than as a single author, reads as one brand underneath that surface, and derives its identity from the systems already built ([[DEC-004-institutional-voice]]).
 - Institutional and system public copy states what a system does and does not explain, interpret, or label the work; it does not call the work an art project or declare the institution fictional ([[DEC-005-public-facing-language]]).
 - The operator channel has a distinct voice and disclosure boundary: it does not identify its speaker as the maker of TENDER SYSTEMS, refers to work only indirectly and approximately, and may discuss most process and motivation without substantially disclosing the work's contents. It does not display or explain the institutional language and identity principles. This concerns voluntary disclosure, not absolute anonymity or preventing audience inference; institutional and system rules remain in place ([[DEC-003-public-identity]], [[DEC-005-public-facing-language]], [[Q-003-operator-voice-on-public-channels]]).
-- Three active systems, OG-001 OTHER GOODS, LN-001 LONGING, and RS-001 THE RESERVE, each canonical in its own Lab repository ([[registry]]).
+- Typeface identifies the speaker across every system: Inconsolata for system output and general interface text, Departure Mono for terminals and dashboards, Source Serif for text a person wrote. The governing rule is the distinction between speakers, not the specific families; the Korean auxiliary typeface, weights, and per-system density remain unconfirmed ([[DEC-006-typographic-voice]]).
+- Two active systems, OG-001 OTHER GOODS and LN-001 LONGING RESEARCH, each canonical in its own Lab repository ([[registry]]).
+- **LN-001 was renamed** from LONGING to **LONGING RESEARCH** on 2026-09-15, on the user's rule that each work carries a two-word name. The identifier is unchanged; the Lab repository `longing-lab` and the `LONGING` public accounts were **not** renamed and remain open questions ([[registry]], [[public-surfaces]]).
+- **RS-001 THE RESERVE is archived**, concluded 2026-09-15 on the user's direction and the first system to take that status. Its function — what a value is stored in, and what backs the things that rest on it — passed to LN-001, carried there by two instruments named BEARER BOND and BLIND TRUST. Its monetary design did not transfer and is preserved unedited in its Lab. Archiving does not delete the Lab, release the identifier, or resolve the questions the system left open, and nothing on record addresses whether it could later reopen ([[registry]]).
 - The shared three-layer Wiki architecture is instantiated in other-goods-lab, longing-lab, and this repository as of 2026-09-05.
 - Instagram and YouTube accounts exist for the institution, OTHER GOODS, and LONGING, one account per entity, reported created by the user on 2026-09-05 ([[public-surfaces]]).
 
@@ -52,11 +59,13 @@ Registered sources include institutional conversations, a recommendation excerpt
 
 - The user wants guidance on developing web/app artworks into papers, preferably from professors in Korea, and expressed interest in 강이연 and the journal interpreted as Leonardo. [[academic-guidance-and-publication]] retains candidate comparisons and proposed preparation routes; no advisor, work, or submission plan was selected.
 
+- The user asked for an abstract institutional layer of eight to ten design principles that each work then specialises. [[design-principles]] holds the resulting v0.1 draft, its proposed three-layer split of institutional principles, per-system principles, and implementation guides, and its conflict ordering. The request is the user's; no principle in the draft is confirmed.
+
 - The dual sense of `tender` — tenderness and transaction — is part of the identity at the user's instruction; the specific slogans built on it are not adopted ([[tender-duality]]).
 - The handle grammar for public accounts: a bare institutional handle, per-system handles appending the system code, bare display names, codes in the bio. Adopted through use rather than by an explicit statement ([[public-surfaces]]).
 - Public accounts are managed from the operator's existing personal application session rather than through separated institutional credentials. This is the user's own proposal, adopted after an earlier stricter recommendation was set aside ([[public-surfaces]]).
 - A reference survey of artworks and papers, and an annotated bibliography document derived from it, are held as background. Nothing in either was selected or endorsed, and the institution-level items are recorded without establishing a reading list ([[bibliography-survey]]).
-- No institution-level page exists under `wiki/systems/`, and `{project-slug}-web` implementation repositories do not exist for OTHER GOODS or LONGING in the existing record; THE RESERVE implementation-repository status is not confirmed here.
+- No institution-level page exists under `wiki/systems/`, and `{project-slug}-web` implementation repositories do not exist for OTHER GOODS or LONGING in the existing record; THE RESERVE never had one and is now archived.
 
 ## Background records
 
@@ -69,7 +78,7 @@ Registered sources include institutional conversations, a recommendation excerpt
 - Academic guidance availability, the work and research question to pursue, and how publication authorship and explanatory writing would relate to institutional identity and public language ([[academic-guidance-and-publication]]).
 
 - The exact live account handles on Instagram and YouTube. The user reported the accounts created but never restated the final strings, and the institutional handle originally intended was already taken. These need verification against the live accounts ([[public-surfaces]]).
-- Whether TENDER SYSTEMS maintains one design discipline across its systems, and what would govern what. The only material on record is an assistant proposal that received no user reply ([[Q-001-shared-design-system]]).
+- What a shared design discipline governs beyond typography. One cross-system rule is now adopted and an institutional principle layer is requested, but the layering itself, the place of external human-interface guidance, and the handling of intentional friction remain unconfirmed proposals ([[Q-001-shared-design-system]], [[design-principles]]).
 - Where the boundary falls between internal working language and public language ([[Q-002-internal-versus-public-language]]).
 - Whether the structural method shared by the current systems is an intentional institutional rule. It was named by an assistant and not confirmed ([[tender-subject-systematic-form]]).
 - Whether to adopt the proposed web-first release structure: social discovery, a minimal institutional index, direct system experiences, and a separate archive. The new excerpt contains recommendations without user acceptance; neither a release sequence nor a public interpretive archive is approved ([[public-surfaces]], [[Q-002-internal-versus-public-language]]).
@@ -83,6 +92,9 @@ Registered sources include institutional conversations, a recommendation excerpt
 Several important conclusions still depend on a single source, even where a page now cites multiple sources. The release structure and experience/archive split depend solely on the unconfirmed how-to-show excerpt. Two of the earlier sources are secondary in part: the identity conversation reports earlier deliberation that is not registered here and carries operational rules the user pasted from work done elsewhere, and the social-account conversation relies on live web searches and on an assistant's reading of another repository's Wiki. Watch these dependencies as further material arrives.
 
 ## Sources
+
+- [[SRC-2026-09-14-typographic-voice]] — [raw/conversations/2026-09-14-typographic-voice.md](../raw/conversations/2026-09-14-typographic-voice.md)
+- [[SRC-2026-09-14-design-principles-draft]] — [raw/conversations/2026-09-14-design-principles-draft.md](../raw/conversations/2026-09-14-design-principles-draft.md)
 
 - [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../raw/conversations/2026-09-09-operator-channel-boundary.md)
 

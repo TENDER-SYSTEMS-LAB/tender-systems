@@ -1,12 +1,24 @@
 ---
-status: unknown
-attribution: llm-proposed
-updated: 2026-09-07
+status: working
+attribution: jointly-developed
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-14-typographic-voice
+  - SRC-2026-09-14-design-principles-draft
   - SRC-2026-09-04-apple-design-skill-review
 ---
 
 # Q-001 — A Shared Design System Across Systems
+
+## Partial answer (2026-09-15)
+
+Status: `working`. The first half of the question — whether a shared discipline is wanted at all — now has user material behind it, in two forms.
+
+The user adopted a typographic rule that spans every system and stated its reason in their own words: the typeface follows who is speaking. That decision is recorded in [[DEC-006-typographic-voice]] and is a shared discipline in practice, whatever is decided about the rest.
+
+Separately, the user asked for eight to ten TENDER SYSTEMS design principles as "큰 디자인 원칙" that each work then specialises — an abstract institutional layer above per-work rules. The draft answering that request is unconfirmed and is held in [[design-principles]] with a proposed three-layer split of institutional principles, per-system principles, and implementation guides.
+
+So a shared discipline is wanted, and one instance of it exists. What governs what is answered only by an unconfirmed proposal, and the sub-questions below about external human-interface guidance and intentional friction are untouched by either conversation. Neither the user nor the external assistants who produced these drafts referred to the proposal recorded below; the two lines of thinking have not been reconciled.
 
 ## Question
 
@@ -34,18 +46,25 @@ The conversation ends on that proposal with no user reply of any kind. Nothing h
 
 ## Open sub-questions
 
-- Whether a shared design discipline is wanted at all.
-- What belongs to the institution versus to a system.
+The first two are narrowed by the partial answer above rather than closed.
+
+- Whether a shared design discipline is wanted at all. Answered for typography; not stated as a general rule.
+- What belongs to the institution versus to a system. A three-layer split is proposed in [[design-principles]] and unconfirmed.
 - Whether external human-interface guidance sits underneath institutional principles or is not used.
 - How a rule against automatically repairing intentional friction would be applied in practice.
 
 ## Related
 
+- [[DEC-006-typographic-voice]]
+- [[design-principles]]
 - [[tender-subject-systematic-form]]
 - [[DEC-004-institutional-voice]]
 - [[current-state]]
 
 ## Sources
+
+- [[SRC-2026-09-14-typographic-voice]] — [raw/conversations/2026-09-14-typographic-voice.md](../../raw/conversations/2026-09-14-typographic-voice.md)
+- [[SRC-2026-09-14-design-principles-draft]] — [raw/conversations/2026-09-14-design-principles-draft.md](../../raw/conversations/2026-09-14-design-principles-draft.md)
 
 - [[SRC-2026-09-04-apple-design-skill-review]] — [raw/conversations/2026-09-04-apple-design-skill-review.md](../../raw/conversations/2026-09-04-apple-design-skill-review.md)
 

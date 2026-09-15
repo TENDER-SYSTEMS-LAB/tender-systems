@@ -22,6 +22,8 @@ On 2026-09-05 the user reported that Instagram and YouTube accounts had been cre
 
 Three entities each hold their own account on both platforms: the institution (`TENDER SYSTEMS`), OG-001 (`OTHER GOODS`), and LN-001 (`LONGING`).
 
+LN-001 was renamed **LONGING RESEARCH** on 2026-09-15. The accounts below are recorded as created and are **not** changed by that rename; whether they follow it is undecided, and the handles were never verified in the first place. See [[registry]].
+
 The exact live handles are **not verified**. The user's own message in the conversation shows the intended Instagram set:
 
 ```text

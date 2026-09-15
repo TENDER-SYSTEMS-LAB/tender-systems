@@ -1,8 +1,10 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-09
+updated: 2026-09-15
 sources:
+  - SRC-2026-09-14-typographic-voice
+  - SRC-2026-09-14-design-principles-draft
   - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-08-youtube-visual-identity
   - SRC-2026-09-08-bibliography-survey
@@ -51,14 +53,15 @@ Before creating a page, check this catalog to see whether an existing page can b
 ## Core
 
 - [[overview]] — Definition, operating principles, knowledge architecture, and public identity of TENDER SYSTEMS · `working` (2026-09-07)
-- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-09)
-- [[registry]] — Canonical registry of OG-001, LN-001, and RS-001, with status and repositories · `confirmed` (2026-09-07)
+- [[current-state]] — Snapshot of confirmed institutional decisions, current work, background records, and unknowns · `working` (2026-09-15)
+- [[registry]] — Canonical registry of OG-001, the renamed LN-001 LONGING RESEARCH, and the archived RS-001, with status, repositories, and the first use of `archived` · `confirmed` (2026-09-15)
 
 ## Concepts
 
 - [[tender-duality]] — The two senses of `tender`, tenderness and transaction, that the institution works between · `working` (2026-09-07)
 - [[tender-subject-systematic-form]] — Proposed structural method shared by the current systems, unconfirmed, with proposed supporting literature · `hypothesis` (2026-09-08)
 - [[public-surfaces]] — Accounts, handles, an unconfirmed release structure, and the operator channel's confirmed disclosure boundary and working visual direction · `working` (2026-09-09)
+- [[design-principles]] — A requested institutional layer of design principles, with the unconfirmed v0.1 draft, its three-layer split, and its conflict ordering · `working` (2026-09-15)
 
 ## Notes
 
@@ -77,10 +80,11 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-003-public-identity]] — Institutional public identity, the closed registered-originals exception, and the operator channel's distinct disclosure boundary · `confirmed` (2026-09-09)
 - [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-07)
 - [[DEC-005-public-facing-language]] — Institutional and system copy states operations; the operator channel may discuss process and motivation without substantial work disclosure · `confirmed` (2026-09-09)
+- [[DEC-006-typographic-voice]] — Typeface identifies the speaker: Inconsolata for the system, Departure Mono for terminals, Source Serif for human writing · `confirmed` (2026-09-15)
 
 ## Open Questions
 
-- [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what · `unknown` (2026-09-07)
+- [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what; typography is now decided and the wider layering is not · `working` (2026-09-15)
 - [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-07)
 
 ## Resolved Questions
@@ -97,12 +101,12 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [AGENTS](../AGENTS.md) — Task-sized reading, scoped verification, source preservation, institutional Git identity, and standing push authorization (2026-09-07)
 - [Schema](../schema.md) — On-demand page structure, attribution, provenance, catalog, and maintenance reference (2026-09-07)
 - [Raw README](../raw/README.md) — New-source registration, immutable originals, and targeted lookup guidance (2026-09-07)
-- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-09)
+- [Raw Source Index](../raw/sources.md) — Source IDs, paths, hashes, ingestion status, and targeted registration/lookup rules (2026-09-15)
 
 ## Page Creation Gates
 
 - Create `wiki/systems/` only when a single system accumulates institution-level knowledge that develops independently of its Lab repository. Until then, [[registry]] holds every registry-level fact.
 - Keep the choice of the next public platform in [[public-surfaces]] rather than opening a page for it.
-- Create a design page only if [[Q-001-shared-design-system]] receives a user decision. The material on record is an unanswered proposal.
+- Institution-level design material has two pages and needs no more: [[DEC-006-typographic-voice]] for the confirmed rule and [[design-principles]] for the unconfirmed principle layer. Extend those rather than opening a page per design topic, and keep a system's own visual language in its Lab repository.
 - Do not create a page for material that is canonical in a Lab repository. Link to that repository instead.
 - Do not duplicate a per-source raw catalog here. Use the [Raw Source Index](../raw/sources.md) as the single registry.

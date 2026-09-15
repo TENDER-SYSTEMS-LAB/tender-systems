@@ -11,7 +11,7 @@ sources:
 
 ## Definition
 
-TENDER SYSTEMS is the institution under which individual systems are developed and operated. Its public-facing description on record is "Systems for things that resist measurement." Its GitHub organization is `TENDER-SYSTEMS-LAB`. It currently operates two active systems, OG-001 OTHER GOODS and LN-001 LONGING; see [[registry]].
+TENDER SYSTEMS is the institution under which individual systems are developed and operated. Its public-facing description on record is "Systems for things that resist measurement." Its GitHub organization is `TENDER-SYSTEMS-LAB`. It currently operates two active systems, OG-001 OTHER GOODS and LN-001 LONGING RESEARCH, and one archived system, RS-001 THE RESERVE; see [[registry]].
 
 The institution presents as an organization rather than as a single author, and its identity is derived from the systems already built rather than designed ahead of them; see [[DEC-004-institutional-voice]]. The name itself carries the two senses of `tender` that the institution works between; see [[tender-duality]]. A structural method shared by the current systems has been proposed but not confirmed; see [[tender-subject-systematic-form]].
 

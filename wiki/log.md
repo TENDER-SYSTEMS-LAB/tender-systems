@@ -159,3 +159,45 @@ Extended [[public-surfaces]] with the user's initial video format, comfort and v
 Registered [[SRC-2026-09-09-operator-channel-boundary]] from the selected user statement, assistant interpretation, and user approval, preserving the Korean message bodies. Extended [[DEC-003-public-identity]] and [[DEC-005-public-facing-language]]: the operator channel does not identify its speaker as the maker of TENDER SYSTEMS, refers to work indirectly, and may discuss most process and motivation without substantial work disclosure or displaying institutional principles. Institutional and system rules remain unchanged; no absolute-anonymity or audience-inference-prevention requirement was adopted.
 
 Recorded the resolution and preserved prior uncertainty in [[Q-003-operator-voice-on-public-channels]]; synchronized [[public-surfaces]], [[current-state]], and affected [[index]] entries. Channel name, live account ownership and creation, final assets, the compiled episode schedule, and the broader interpretive-archive boundary remain unconfirmed. Existing originals and earlier log content were preserved.
+
+## [2026-09-15] decision | Typeface identifies the speaker
+
+Registered [[SRC-2026-09-14-typographic-voice]] (hash `0201a6cb1bce1f171601f1cf11d0cff06b53dcd5`). The export arrived with an exporter-generated name and was renamed to `raw/conversations/2026-09-14-typographic-voice.md` before registration with its bytes unchanged; the source date follows the visible 2026-09-14 dialogue rather than the 2026-09-15 export.
+
+Created [[DEC-006-typographic-voice]]. The user confirmed Inconsolata as the base typeface after a slashed-zero requirement set IBM Plex Mono aside, accepted Source Serif for text a person wrote, extended Departure Mono to terminals and dashboards, and stated the governing rule themselves: the typeface follows who is speaking. The earlier per-system Sans/Mono split is superseded and was never adopted. Recorded the rule as institutional under the [[DEC-002-decision-placement]] test, with per-system application left canonical in each Lab repository.
+
+Attribution care: only the four user acceptances are confirmed. The Korean auxiliary sans is unnamed, "Source Serif 4", the weight and hierarchy guidance, the per-system density table, and the English formulation "Typography identifies the speaker" are the assistant's proposals. The reference image binaries are absent and the reference typeface is never identified; glyph and licensing claims were not verified during ingestion and need checking before implementation. The operator channel's separate visual direction in [[public-surfaces]] is unchanged.
+
+## [2026-09-15] ingest | Design principles draft and the layer it belongs to
+
+Registered [[SRC-2026-09-14-design-principles-draft]] (hash `ce5ad433d9ed496b120fd3c4e6a6ade813cdf523`), renamed from its exporter-generated name with bytes preserved and dated to its visible 2026-09-14 dialogue.
+
+Created [[design-principles]]. The user's own contribution is the request itself: eight to ten principles as an abstract institutional layer that each work specialises. The ten principles, the three-layer split of institutional principles, per-system principles, and implementation guides, and the conflict ordering are the assistant's v0.1 draft, and the conversation ends on it with no user reply, so nothing in the draft is adopted. Recorded the draft's deliberate departure from its sources on whether a work is a tool rather than an art object.
+
+Updated [[Q-001-shared-design-system]] from `unknown` to `working` with a partial answer: a shared discipline is wanted and one instance of it now exists in [[DEC-006-typographic-voice]], while what governs what rests on an unconfirmed proposal, and the sub-questions on external human-interface guidance and intentional friction are untouched. Noted that neither new conversation refers to the 2026-09-04 proposal recorded there, so the two lines of thinking are unreconciled.
+
+Provenance limits: the two Dieter Rams videos exist only as Korean auto-generated transcripts inside the export, without title, channel, upload date, or URL and with visible transcription damage, and are not registered as sources; their attributions are the speakers' claims. The assistant is an external session with no access to this repository, so the draft has not been checked against [[DEC-004-institutional-voice]] or [[DEC-005-public-facing-language]].
+
+Synchronized [[current-state]], [[index]], and the [Raw Source Index](../raw/sources.md); replaced the index gate that had blocked a design page. Earlier log content and existing originals were preserved.
+
+## [2026-09-15] decision | RS-001 archived; ACTIVE SYSTEMS reduced to two
+
+Registered [[SRC-2026-09-15-reserve-absorption-and-trust-instruments]] (hash `337bc0209634ddb3f6a9e2c01e40a0ea5689cae7`), an operator-captured transcript whose user turns are verbatim and whose assistant turns are condensed. The same file and hash are registered in `longing-lab` and `the-reserve-lab`; it is registered here only because it changes a registry-level fact, per [[DEC-002-decision-placement]].
+
+The user directed that THE RESERVE be shown as ended rather than active. Set RS-001 to `archived` in [[registry]] — the first system to take that status — with the conclusion date, the transfer of its function to LN-001, and the limits of archiving: the Lab is not deleted, the identifier is not released and is never reused, and the open questions the system left behind are not thereby resolved. Nothing on record addresses whether it could later reopen, so nothing is claimed either way. The implementation-repository field, previously `not confirmed`, is corrected to `none`; no such repository was ever created.
+
+Moved RS-001 out of ACTIVE SYSTEMS in the README into a CONCLUDED heading, keeping the link to its Lab so the archived research stays reachable. Updated [[current-state]] from three active systems to two, with the archive recorded beside it, and corrected the stale note that its implementation status was unconfirmed.
+
+Kept the boundary. The reasoning behind the conclusion — why the backing layer was renamed, split into BEARER BOND and BLIND TRUST, and placed inside LONGING — is system content and stays canonical in the two Labs. This repository records the status change and links to their decisions. No institutional decision, principle, or public-language rule was changed, and the concurrent uncommitted typography and design-principles work in this repository was left untouched.
+
+## [2026-09-15] decision | LN-001 renamed LONGING RESEARCH
+
+Registered [[SRC-2026-09-15-longing-research-rename]] (hash `d186ef253116a5dd44634ec20596a22eb79a1661`) as a separate source, since the transcript registered earlier today is an original and is never edited. It is registered here only because a system's name is a registry-level fact; the naming rationale stays canonical in the Lab, per [[DEC-002-decision-placement]].
+
+Renamed LN-001 from **LONGING** to **LONGING RESEARCH** in [[registry]], with the former name and its end date recorded on the system's entry, and in the README, [[overview]], and [[current-state]]. The reason on record is the user's rule that each work in the series carries a two-word name.
+
+Made the identifier rule explicit where it was previously only implied: a rename does not re-derive an identifier. `LN-001` was derived from LONGING and is retained under LONGING RESEARCH, in the same way RS-001 is not released by archiving.
+
+Recorded two things that did **not** follow the rename. The Lab repository is still `longing-lab`, where [[DEC-001-repository-conventions]] would give `longing-research-lab`; renaming a published repository is outward-facing and breaks existing links, including the cross-repository URLs now written into THE RESERVE's conclusion decision. The Instagram and YouTube accounts are still registered under `LONGING`, and [[public-surfaces]] now carries that note beside the created-account record — whose handles were never verified in the first place. Neither account nor repository was touched.
+
+No institutional decision, principle, or public-language rule changed, and the concurrent uncommitted typography and design-principles work in this repository was left untouched.
