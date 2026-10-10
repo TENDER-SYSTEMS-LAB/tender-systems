@@ -43,6 +43,7 @@ For a lookup or suspected mismatch, search only the source ID/path and its captu
 | `SRC-2026-09-15-concluded-section-on-org-profile` | [raw/conversations/2026-09-15-concluded-section-on-org-profile.md](conversations/2026-09-15-concluded-section-on-org-profile.md) | conversation | 2026-09-15 | user-originated | `6ab11fbca61e0a47d35200e924f1d9eed46ebf6c` | 2026-09-15 | promoted as the amendment of the minimal-profile rule and the public listing of a concluded system |
 | `SRC-2026-10-10-typeface-as-persona` | [raw/conversations/2026-10-10-typeface-as-persona.md](conversations/2026-10-10-typeface-as-persona.md) | conversation | 2026-10-10 | user-originated | `29f63bed088860c2eba4e44cb916ef876248e6de` | 2026-10-10 | promoted as the user-stated rationale for the speaker-based typeface rule in DEC-006 |
 | `SRC-2026-10-10-words-shape-judgment` | [raw/conversations/2026-10-10-words-shape-judgment.md](conversations/2026-10-10-words-shape-judgment.md) | conversation | 2026-10-10 | llm-proposed | `df40ee34375a0465c93ed124423cce90d7d9e867` | 2026-10-10 | promoted as open question Q-004; every application is an unadopted proposal |
+| `SRC-2026-10-10-tool-attribution-trailer-allowed` | [raw/conversations/2026-10-10-tool-attribution-trailer-allowed.md](conversations/2026-10-10-tool-attribution-trailer-allowed.md) | conversation | 2026-10-10 | user-originated | `ad7f8a31734316d1b549b0e1ee423540bedcbdd2` | 2026-10-10 | promoted as a DEC-003 amendment lifting the commit-trailer prohibition |
 
 ## Provenance notes
 
@@ -100,3 +101,5 @@ The same file and blob hash are registered in [longing-lab](https://github.com/T
 `SRC-2026-10-10-typeface-as-persona` is an **operator-captured record** of one user message in Korean, quoted verbatim, with no assistant turn preserved. It states why typeface matters and directs that the reasoning reach the works; it names no typeface, surface, or system. The same file and blob hash are registered in [longing-lab](https://github.com/TENDER-SYSTEMS-LAB/longing-lab) and [other-goods-lab](https://github.com/TENDER-SYSTEMS-LAB/other-goods-lab) as derivative imports.
 
 `SRC-2026-10-10-words-shape-judgment` is an **operator-captured record**. Its two user turns are verbatim Korean; the assistant turn between them is condensed but keeps every proposal and caveat. The user asked for the material to be recorded and did not adopt any of it.
+
+`SRC-2026-10-10-tool-attribution-trailer-allowed` is an **operator-captured record**. Its user turn is verbatim Korean, and the assistant report it answers is condensed.

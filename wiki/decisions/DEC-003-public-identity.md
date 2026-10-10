@@ -1,8 +1,9 @@
 ---
 status: confirmed
 attribution: user-confirmed
-updated: 2026-09-15
+updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-tool-attribution-trailer-allowed
   - SRC-2026-09-15-concluded-section-on-org-profile
   - SRC-2026-09-09-operator-channel-boundary
   - SRC-2026-09-04-tender-systems-identity-review
@@ -41,7 +42,7 @@ Authentication and attribution are different things. A repository's public recor
 ## Consequences
 
 - Global Git configuration is never modified to achieve this; a repository-local setting is used.
-- Commits carry no `Co-authored-by`, `Signed-off-by`, or tool-attribution trailers.
+- ~~Commits carry no `Co-authored-by`, `Signed-off-by`, or tool-attribution trailers.~~ `deprecated` on 2026-10-10; see *Amendment (2026-10-10)* below.
 - Commit messages describe the change and nothing else.
 - Repository metadata — descriptions, topics, profile text — carries no personal attribution, biography, or contact details.
 
@@ -108,11 +109,30 @@ The profile is still minimal, and the amendment is narrow:
 
 ### What does not change
 
-Every other public-surface rule stands: the unified `TENDER SYSTEMS` identity, private organization membership, empty repository topics, no personal attribution in repository metadata, and the commit-identity and trailer rules in *Consequences* above. This amendment concerns what the profile lists, nothing else.
+Every other public-surface rule stands: the unified `TENDER SYSTEMS` identity, private organization membership, empty repository topics, no personal attribution in repository metadata, and the commit-identity and trailer rules in *Consequences* above. *(The trailer rule was later lifted; see Amendment (2026-10-10).)* This amendment concerns what the profile lists, nothing else.
 
 The institutional README in this repository already carried a `CONCLUDED` heading before this amendment; the two surfaces are now consistent, which was not previously required and is not made a rule here.
 
+## Amendment (2026-10-10)
+
+Status: `confirmed`; attribution: `user-confirmed`.
+
+The user was told that a pushed `longing-lab` commit carries a `Co-Authored-By: Claude …` tool-attribution trailer, against the rule above. They accepted it and lifted the rule:
+
+> "남겨져도 괜찮아. 해당 규칙을 지워도 될듯"
+
+### What the rule now is
+
+- Commits may carry tool-attribution trailers such as `Co-Authored-By: Claude …`.
+- Already-published commits that carry one need no correction. This covers the four commits of 2026-09-15 recorded in the log and `longing-lab` `1f30f2a`.
+
+### What does not change
+
+The rationale of this decision still holds, so a trailer may not carry the operator's personal name or address. That limit is `llm-synthesis`, derived from *No personal attribution* and the commit-identity rules; the user did not restate it. Author and committer remain `TENDER SYSTEMS <code@tender.systems>`. Commit messages still describe the change, and the trailer is the only addition.
+
 ## Sources
+
+- [[SRC-2026-10-10-tool-attribution-trailer-allowed]] — [raw/conversations/2026-10-10-tool-attribution-trailer-allowed.md](../../raw/conversations/2026-10-10-tool-attribution-trailer-allowed.md)
 
 - [[SRC-2026-09-15-concluded-section-on-org-profile]] — [raw/conversations/2026-09-15-concluded-section-on-org-profile.md](../../raw/conversations/2026-09-15-concluded-section-on-org-profile.md)
 
