@@ -1,8 +1,10 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-15
+updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-words-shape-judgment
+  - SRC-2026-10-10-typeface-as-persona
   - SRC-2026-09-15-concluded-section-on-org-profile
   - SRC-2026-09-15-longing-research-rename
   - SRC-2026-09-15-reserve-absorption-and-trust-instruments
@@ -45,7 +47,7 @@ Registered sources include institutional conversations, a recommendation excerpt
 - TENDER SYSTEMS presents as an organization rather than as a single author, reads as one brand underneath that surface, and derives its identity from the systems already built ([[DEC-004-institutional-voice]]).
 - Institutional and system public copy states what a system does and does not explain, interpret, or label the work; it does not call the work an art project or declare the institution fictional ([[DEC-005-public-facing-language]]).
 - The operator channel has a distinct voice and disclosure boundary: it does not identify its speaker as the maker of TENDER SYSTEMS, refers to work only indirectly and approximately, and may discuss most process and motivation without substantially disclosing the work's contents. It does not display or explain the institutional language and identity principles. This concerns voluntary disclosure, not absolute anonymity or preventing audience inference; institutional and system rules remain in place ([[DEC-003-public-identity]], [[DEC-005-public-facing-language]], [[Q-003-operator-voice-on-public-channels]]).
-- Typeface identifies the speaker across every system: Inconsolata for system output and general interface text, Departure Mono for terminals and dashboards, Source Serif for text a person wrote. The governing rule is the distinction between speakers, not the specific families; the Korean auxiliary typeface, weights, and per-system density remain unconfirmed ([[DEC-006-typographic-voice]]).
+- Typeface identifies the speaker across every system: Inconsolata for system output and general interface text, Departure Mono for terminals and dashboards, Source Serif for text a person wrote. The reason, in the user's words: if the text is the speech, the typeface is its manner and its speaker's persona, and the works are to reflect that. The governing rule is the distinction between speakers, not the specific families; the Korean auxiliary typeface, weights, and per-system density remain unconfirmed ([[DEC-006-typographic-voice]]).
 - Two active systems, OG-001 OTHER GOODS and LN-001 LONGING RESEARCH, each canonical in its own Lab repository ([[registry]]).
 - **LN-001 was renamed** from LONGING to **LONGING RESEARCH** on 2026-09-15, on the user's rule that each work carries a two-word name. The identifier is unchanged; the Lab repository `longing-lab` and the `LONGING` public accounts were **not** renamed and remain open questions ([[registry]], [[public-surfaces]]).
 - **RS-001 THE RESERVE is archived**, concluded 2026-09-15 on the user's direction and the first system to take that status. Its function — what a value is stored in, and what backs the things that rest on it — passed to LN-001, carried there by two instruments named BEARER BOND and BLIND TRUST. Its monetary design did not transfer and is preserved unedited in its Lab. Archiving does not delete the Lab, release the identifier, or resolve the questions the system left open, and nothing on record addresses whether it could later reopen ([[registry]]).
@@ -81,6 +83,7 @@ Registered sources include institutional conversations, a recommendation excerpt
 - The exact live account handles on Instagram and YouTube. The user reported the accounts created but never restated the final strings, and the institutional handle originally intended was already taken. These need verification against the live accounts ([[public-surfaces]]).
 - What a shared design discipline governs beyond typography. One cross-system rule is now adopted and an institutional principle layer is requested, but the layering itself, the place of external human-interface guidance, and the handling of intentional friction remain unconfirmed proposals ([[Q-001-shared-design-system]], [[design-principles]]).
 - Where the boundary falls between internal working language and public language ([[Q-002-internal-versus-public-language]]).
+- Whether and where the works reflect the effect of seen or heard words on judgment. The question is the user's; candidate applications for both active systems are unadopted proposals ([[Q-004-words-shape-judgment]]).
 - Whether the structural method shared by the current systems is an intentional institutional rule. It was named by an assistant and not confirmed ([[tender-subject-systematic-form]]).
 - Whether to adopt the proposed web-first release structure: social discovery, a minimal institutional index, direct system experiences, and a separate archive. The new excerpt contains recommendations without user acceptance; neither a release sequence nor a public interpretive archive is approved ([[public-surfaces]], [[Q-002-internal-versus-public-language]]).
 - The operator channel's final name, live account creation and ownership, final assets, and adoption of the compiled episode schedule remain unconfirmed. The voice and disclosure boundary is now confirmed, but does not establish these production details or blanket permission to publish all background records ([[Q-003-operator-voice-on-public-channels]], [[public-surfaces]]).
@@ -95,6 +98,8 @@ Several important conclusions still depend on a single source, even where a page
 ## Sources
 
 - [[SRC-2026-09-14-typographic-voice]] — [raw/conversations/2026-09-14-typographic-voice.md](../raw/conversations/2026-09-14-typographic-voice.md)
+- [[SRC-2026-10-10-typeface-as-persona]] — [raw/conversations/2026-10-10-typeface-as-persona.md](../raw/conversations/2026-10-10-typeface-as-persona.md)
+- [[SRC-2026-10-10-words-shape-judgment]] — [raw/conversations/2026-10-10-words-shape-judgment.md](../raw/conversations/2026-10-10-words-shape-judgment.md)
 - [[SRC-2026-09-14-design-principles-draft]] — [raw/conversations/2026-09-14-design-principles-draft.md](../raw/conversations/2026-09-14-design-principles-draft.md)
 
 - [[SRC-2026-09-09-operator-channel-boundary]] — [raw/conversations/2026-09-09-operator-channel-boundary.md](../raw/conversations/2026-09-09-operator-channel-boundary.md)

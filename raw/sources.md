@@ -41,6 +41,8 @@ For a lookup or suspected mismatch, search only the source ID/path and its captu
 | `SRC-2026-09-15-reserve-absorption-and-trust-instruments` | [raw/conversations/2026-09-15-reserve-absorption-and-trust-instruments.md](conversations/2026-09-15-reserve-absorption-and-trust-instruments.md) | conversation | 2026-09-15 | jointly-developed | `337bc0209634ddb3f6a9e2c01e40a0ea5689cae7` | 2026-09-15 | promoted at registry level only: the conclusion of RS-001 and the transfer of its function to LN-001. The system-level content stays canonical in the two Lab repositories |
 | `SRC-2026-09-15-longing-research-rename` | [raw/conversations/2026-09-15-longing-research-rename.md](conversations/2026-09-15-longing-research-rename.md) | conversation | 2026-09-15 | user-originated | `d186ef253116a5dd44634ec20596a22eb79a1661` | 2026-09-15 | promoted at registry level only: the name of LN-001 changes to LONGING RESEARCH. The naming rationale stays canonical in its Lab |
 | `SRC-2026-09-15-concluded-section-on-org-profile` | [raw/conversations/2026-09-15-concluded-section-on-org-profile.md](conversations/2026-09-15-concluded-section-on-org-profile.md) | conversation | 2026-09-15 | user-originated | `6ab11fbca61e0a47d35200e924f1d9eed46ebf6c` | 2026-09-15 | promoted as the amendment of the minimal-profile rule and the public listing of a concluded system |
+| `SRC-2026-10-10-typeface-as-persona` | [raw/conversations/2026-10-10-typeface-as-persona.md](conversations/2026-10-10-typeface-as-persona.md) | conversation | 2026-10-10 | user-originated | `29f63bed088860c2eba4e44cb916ef876248e6de` | 2026-10-10 | promoted as the user-stated rationale for the speaker-based typeface rule in DEC-006 |
+| `SRC-2026-10-10-words-shape-judgment` | [raw/conversations/2026-10-10-words-shape-judgment.md](conversations/2026-10-10-words-shape-judgment.md) | conversation | 2026-10-10 | llm-proposed | `df40ee34375a0465c93ed124423cce90d7d9e867` | 2026-10-10 | promoted as open question Q-004; every application is an unadopted proposal |
 
 ## Provenance notes
 
@@ -92,3 +94,9 @@ ChatGPT and Grok report reading repository material and performing searches; Cla
 `SRC-2026-09-15-reserve-absorption-and-trust-instruments` is an **operator-captured transcript, not an exporter-generated export**. User turns are verbatim in Korean and carry the decisions; assistant turns are condensed by the capturing assistant, so the file is not a faithful record of assistant output.
 
 The same file and blob hash are registered in [longing-lab](https://github.com/TENDER-SYSTEMS-LAB/longing-lab) and [the-reserve-lab](https://github.com/TENDER-SYSTEMS-LAB/the-reserve-lab). It is registered here only because it changes a registry-level fact — a system's status. Everything else in it is system content and stays canonical in those Labs, per [[DEC-002-decision-placement]].
+
+## Note on the 2026-10-10 typeface rationale
+
+`SRC-2026-10-10-typeface-as-persona` is an **operator-captured record** of one user message in Korean, quoted verbatim, with no assistant turn preserved. It states why typeface matters and directs that the reasoning reach the works; it names no typeface, surface, or system. The same file and blob hash are registered in [longing-lab](https://github.com/TENDER-SYSTEMS-LAB/longing-lab) and [other-goods-lab](https://github.com/TENDER-SYSTEMS-LAB/other-goods-lab) as derivative imports.
+
+`SRC-2026-10-10-words-shape-judgment` is an **operator-captured record**. Its two user turns are verbatim Korean; the assistant turn between them is condensed but keeps every proposal and caveat. The user asked for the material to be recorded and did not adopt any of it.

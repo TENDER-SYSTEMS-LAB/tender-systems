@@ -1,8 +1,10 @@
 ---
 status: working
 attribution: llm-synthesis
-updated: 2026-09-15
+updated: 2026-10-10
 sources:
+  - SRC-2026-10-10-words-shape-judgment
+  - SRC-2026-10-10-typeface-as-persona
   - SRC-2026-09-14-typographic-voice
   - SRC-2026-09-14-design-principles-draft
   - SRC-2026-09-09-operator-channel-boundary
@@ -80,12 +82,13 @@ Before creating a page, check this catalog to see whether an existing page can b
 - [[DEC-003-public-identity]] — Institutional public identity, the closed registered-originals exception, the operator channel's distinct disclosure boundary, and the profile's ACTIVE SYSTEMS and CONCLUDED headings · `confirmed` (2026-09-15)
 - [[DEC-004-institutional-voice]] — Presents as an organization, reads as one brand, derived from the systems already built · `confirmed` (2026-09-07)
 - [[DEC-005-public-facing-language]] — Institutional and system copy states operations; the operator channel may discuss process and motivation without substantial work disclosure · `confirmed` (2026-09-09)
-- [[DEC-006-typographic-voice]] — Typeface identifies the speaker: Inconsolata for the system, Departure Mono for terminals, Source Serif for human writing · `confirmed` (2026-09-15)
+- [[DEC-006-typographic-voice]] — Typeface identifies the speaker and carries its persona: Inconsolata for the system, Departure Mono for terminals, Source Serif for human writing · `confirmed` (2026-10-10)
 
 ## Open Questions
 
 - [[Q-001-shared-design-system]] — Whether one design discipline should govern every system, and what governs what; typography is now decided and the wider layering is not · `working` (2026-09-15)
 - [[Q-002-internal-versus-public-language]] — Boundaries of internal language and a proposed public interpretive archive · `unknown` (2026-09-07)
+- [[Q-004-words-shape-judgment]] — How the works could reflect the effect of seen or heard words on judgment; candidate applications for both active systems, none adopted · `hypothesis` (2026-10-10)
 
 ## Resolved Questions
 

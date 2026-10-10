@@ -215,3 +215,15 @@ Every other public-surface rule is untouched, including the unified identity, pr
 The profile itself lives in the organization's `.github` repository and was updated there in the same task; that repository holds no Wiki and is not a source-registering surface.
 
 **Correction on record.** The four commits pushed earlier today, one in each of `longing-lab`, `the-reserve-lab`, `tender-systems`, and `.github`, carry a `Co-Authored-By` tool-attribution trailer. The *Consequences* section of [[DEC-003-public-identity]] forbids exactly that. The commits are already published, and rewriting history or force-pushing to change attribution is prohibited, so they are left as they are and recorded here instead. No later commit carries the trailer.
+
+## [2026-10-10] decision | The reason typeface identifies the speaker
+
+Registered [[SRC-2026-10-10-typeface-as-persona]] (hash `29f63bed088860c2eba4e44cb916ef876248e6de`), one verbatim user message, as a separate source; the 2026-09-14 original is not edited.
+
+Added the user's rationale to [[DEC-006-typographic-voice]] as a reinforcement, not a revision. If the text is the speech, the typeface is its manner and its speaker's persona. No typeface assignment changed. Recorded one open point: the user's wording names manner (*말투*) as well as persona. Whether a change of manner within one speaker may change the typeface is not stated, so the speaker stays the only selector. Updated [[current-state]] and the DEC-006 catalog entry.
+
+Following the user's direction that the works reflect this, the same file was imported byte-for-byte into `longing-lab` and `other-goods-lab`. Each Lab's design-application page now carries the rationale beside the inherited rule. Nothing was committed or pushed.
+
+## [2026-10-10] query | Words that shape judgment
+
+Registered [[SRC-2026-10-10-words-shape-judgment]] (hash `df40ee34375a0465c93ed124423cce90d7d9e867`). Its user turns are verbatim and its assistant turn is condensed. Created [[Q-004-words-shape-judgment]] at the user's request. The page holds the user's question and the assistant's unadopted proposals: an evidence table that sets behavioural priming aside, five LONGING RESEARCH and four OTHER GOODS candidate applications, and two boundaries (no on-surface explanation, and no steering of real consequences). The per-system candidates stay here only until one is adopted, then move to the owning Lab. Updated [[current-state]] and the catalog. The Labs were not touched. Nothing was committed or pushed.
